@@ -1,687 +1,687 @@
-Name:Odin|63e6c2b6-4a8e-869c-3d4c-e38355226584:ID
-Name:Altitude Odin|89be9866-4807-6235-2a95-499cd23828df:ID
-Name:Xenohunter Odin|94c085e6-48e1-c879-2552-88bf7850c5a8:ID
-Name:Rune Stone Odin|abef8114-4495-6da7-2ade-02bd0f014fd3:ID
-Name:Glitchpop Odin|97af88e4-4176-9fa3-4a26-57919443dab7:ID
-Name:Nitro Odin|2715f184-46cc-bec1-dd7c-e7b4d1aeb625:ID
-Name:Topotek Odin|85c76090-4de5-3a3a-a763-f4a7b779e8ed:ID
-Name:.EXE Odin|cda41b87-4d3a-c17c-5f6d-8990cc9c5efb:ID
-Name:Prime//2.0 Odin|157bcebe-484d-82e2-2a60-c8b4b11197ea:ID
-Name:Prism III Odin|72e724e9-4ba4-2d12-ce1a-8db1a528b9d3:ID
-Name:Smite Odin|9e648b20-4ed5-1f34-87a9-979cbe9a958a:ID
-Name:Coalition: Cobra Odin|5c13101a-45e4-d568-aade-d6b0dadedcd1:ID
-Name:Lightwave Odin|57523cf0-4574-968b-9f17-168e3bdb6d0d:ID
-Name:Sensation Odin|65baa0cd-42ec-f99d-54a0-338d795b5824:ID
-Name:Random Favorite Skin|9c134f41-4c29-1bd8-682e-178e7f349c9b:ID
-Name:Schema Odin|02cce94a-4dc2-d11a-33cf-d8aba4e36202:ID
-Name:Lycan's Bane Odin|468fdc95-443f-f1c2-bd22-fc8e1af0de39:ID
-Name:Reaver Odin|8dda01a6-4237-f430-ac70-c3ba677963e9:ID
-Name:Standard Odin|f454efd1-49cb-372f-7096-d394df615308:ID
-Name:Aerosol Odin|befa2f32-410f-a418-d8d3-b194dcf2ec6d:ID
-Name:BlastX Odin|85ed3f9d-4e59-a709-8faf-bc86effb3a07:ID
-Name:Ares|55d8a0f4-4274-ca67-fe2c-06ab45efdf58:ID
-Name:VALORANT GO! Vol. 2 Ares|e9fce399-4abc-bb3c-8992-f887918ce327:ID
-Name:Aristocrat Ares|8b9855f2-4cc6-0c44-3e7c-d0b2a32c6950:ID
-Name:Endeavour Ares|bb004222-4ecd-e109-e875-069c820548fa:ID
-Name:Nebula Ares|ac65b631-4bd1-b0fa-3313-0da74d4eba9d:ID
-Name:Doodle Buds Ares|35beb433-425e-7072-7ac3-9ca95d1d1fd9:ID
-Name:Singularity Ares|e901bdeb-405f-d06c-0733-6783274d85b0:ID
-Name:Rush Ares|4e04647a-4cfc-64f8-4643-f6b7dbcb2943:ID
-Name:Hivemind Ares|556646c0-46dd-6986-00df-a78d1c17f268:ID
-Name:Spitfire Ares|04b1358c-4702-dd82-a135-368384b685dd:ID
-Name:Infantry Ares|e089be41-4242-b28d-1894-bbba193957a2:ID
-Name:Goldwing Ares|9d2b497b-434d-07fc-ea0f-ee96de4bffa1:ID
-Name:Outpost Ares|4308fe43-44c1-9fe8-d5f9-95be2bc70d51:ID
-Name:Prism Ares|841c9aab-4005-f7fd-3b67-24b335100fb4:ID
-Name:Monstrocity Ares|ff0a538f-4ee6-a3e7-f7a8-a0b5a76e027b:ID
-Name:Nunca Olvidados Ares|7aa16eb6-45ef-1446-fdaa-5f8fbbd04bee:ID
-Name:Celestial Ares|d21e2975-4586-635c-3fe4-e6be738243b3:ID
-Name:Magepunk Ares|0fac1dcf-48d0-c6c4-675e-2a8013bc879c:ID
-Name:Minima Ares|cd8eb70d-443c-d9fd-48cd-98bace9d5132:ID
-Name:Ion Ares|0f4b0478-4759-911d-c44b-2a907534789d:ID
-Name:Oni Ares|759bca71-4764-19f8-8890-239eedb78fa3:ID
-Name:9 Lives Ares|4e459b3b-4dab-934f-1d77-bdbe75b6fcca:ID
-Name:POLYfrog Ares|ff555802-4633-0c8b-93f8-b8887666e3ad:ID
-Name:Divine Swine Ares|398ef7c2-4055-980e-a8b4-669ca8bc5084:ID
-Name:Jigsaw Ares|e4b7f196-4f05-825f-e795-a59fc829195d:ID
-Name:Premiere Collision Ares|165116bf-497a-3ffa-38dc-c58d4475e225:ID
-Name:Random Favorite Skin|acccab4a-4093-8a4a-f1d3-299071d763d3:ID
-Name:Sentinels of Light Ares|9f3e2ba6-428f-c635-67e0-b8b7d9e3c2fc:ID
-Name:Sakura Ares|2666f98d-4f88-8cb9-4927-629d75a6a7ad:ID
-Name:Snowfall Ares|43538e40-48bf-0262-d4a7-bbba3c56df77:ID
-Name:Titanmail Ares|d29d764d-41ce-5a4d-0a96-7b8b91da16fd:ID
-Name:Standard Ares|5305d9c4-4f46-fbf4-9e9a-dea772c263b5:ID
-Name:Vandal|9c82e19d-4575-0200-1a81-3eacf00cf872:ID
-Name:Immortalized Vandal|d980c0c8-492b-b8df-2d91-af99a7707170:ID
-Name:RGX 11z Pro Vandal|e5490f71-455b-74ad-f762-f5a876d4dff9:ID
-Name:Altitude Vandal|c97cd8a3-44ef-8425-5bf6-11bf72128606:ID
-Name:VALORANT GO! Vol. 2 Vandal|ba6f2526-4ed2-8e62-49aa-ebbb04290682:ID
-Name:Araxys Vandal|4c926aa9-4f26-bc80-c486-9b888333373f:ID
-Name:Neptune Vandal|db91451c-4309-2c8c-eded-bf842d844e52:ID
-Name:Aristocrat Vandal|6191bb0b-456f-1a3e-df13-cdb0c1b8b1e4:ID
-Name:Gaia's Vengeance Vandal|000ad7b1-44b0-9345-ea47-9cbd7dcdbb38:ID
-Name:Endeavour Vandal|d3733bfe-48d7-b119-3195-249d3b46b528:ID
-Name:Champions 2021 Vandal|9bf19b77-4b33-7203-9f2c-16932970622f:ID
-Name:Origin Vandal|6c4315b8-4ff1-baaa-5aac-5790c7443353:ID
-Name:Starlit Odyssey Vandal|ffb65a92-4654-a7f8-1908-bf9bb18995a3:ID
-Name:Glitchpop Vandal|74789f33-4632-8052-96d7-258538721a32:ID
-Name:ChronoVoid Vandal|8e762a1f-4102-b7ce-d6a0-9690c5bfe160:ID
-Name:Prelude to Chaos Vandal|522a264e-4ca7-adb0-6cf1-28b2ef938727:ID
-Name:Elderflame Vandal|18609205-4edb-5966-cff8-0fba0230ba1e:ID
-Name:Sarmad Vandal|5b6b1eee-4185-8f83-9374-3391d0f0f742:ID
-Name:Nitro Vandal|9b62faf1-416c-b736-0edb-39b890f1f18d:ID
-Name:Hivemind Vandal|f7f63b78-4b12-b21e-a0e7-6bafbad81509:ID
-Name:Venturi Vandal|5a658084-453f-e971-5def-2bb9cf6e5e90:ID
-Name:Forsaken Vandal|437307c6-424c-6a48-9738-949b91166353:ID
-Name:Team Ace Vandal|25980352-4407-60ff-eb27-058c1ea696cc:ID
-Name:Ruin Vandal|948d31a0-4c2a-9c82-2b89-fe9f2ec65036:ID
-Name:.EXE Vandal|6f3a2a08-4f32-dbdc-8dca-628a5c840052:ID
-Name:.SYS Vandal|23d61dbb-457a-5590-2e91-38a67a52c332:ID
-Name:Horizon Vandal|9d71edb0-453c-defa-507d-57aa2935b379:ID
-Name:Prime Vandal|b9ee2457-481c-6776-3f5b-0ca8e8f90c89:ID
-Name:Avalanche Vandal|41b55c92-4aeb-9c86-854a-4abcd48ea0ba:ID
-Name:Black.Market Vandal|a810ec6b-46e7-767d-7186-2cbe49e7fe1b:ID
-Name:Prism II Vandal|a383091d-4c7a-eb6d-0f45-e78232ede644:ID
-Name:K/TAC Vandal|11a93854-44f0-bd66-f434-3f81744ddd8d:ID
-Name:Monstrocity Vandal|b3a65992-469c-bab8-736e-49bbda91c650:ID
-Name:Nunca Olvidados Vandal|6460e252-48ef-8312-6f4f-2cb5f1b56972:ID
-Name:Luxe Vandal|30fd16af-4560-b2e2-7780-ee8148a0946a:ID
-Name:Silvanus Vandal|d758abc0-4d99-62d3-b22b-0db0e57de881:ID
-Name:Crimsonbeast Vandal|8b688de6-42d3-9430-8f38-32b0b3d1c2c6:ID
-Name:Ion Vandal|596ce51d-40e3-dc21-b02d-b08d070a7883:ID
-Name:Oni Vandal|7156c2ee-41fc-f8f4-d457-ebb287965c08:ID
-Name:Cryostasis Vandal|f328add7-4710-ab8d-95bb-409bc8278a35:ID
-Name:Luna Vandal|04d8cc84-468a-b696-85ae-a193077838ed:ID
-Name:Sensation Vandal|72c1e90b-40ca-4304-02eb-28bb2aea4ed2:ID
-Name:Random Favorite Skin|9c808029-48f5-ce89-21c5-88bf4228d2ed:ID
-Name:Sentinels of Light Vandal|e8df3725-40de-b8ec-77bd-62a989685a85:ID
-Name:Sakura Vandal|f946ef5c-46ab-e146-a712-1d99a1651356:ID
-Name:Schema Vandal|9a6c6db7-4f56-12d6-8339-6386f12090e8:ID
-Name:Lycan's Bane Vandal|6b58163f-4426-8abf-8f55-f79e3a2045df:ID
-Name:Reaver Vandal|30388628-42f0-606c-82c0-73ad43de997f:ID
-Name:Tethered Realms Vandal|f2b034e0-4b54-5abc-25c8-d293b6f1d247:ID
-Name:Cavalier Vandal|1eb7639f-4e90-5b5b-9f53-a792103d6f29:ID
-Name:Titanmail Vandal|e8dc658b-4c7c-2338-facd-7d8d2813560a:ID
-Name:Standard Vandal|27f21d97-4c4b-bd1c-1f08-31830ab0be84:ID
-Name:Depths Vandal|f2871246-441c-5f41-3dac-13947139adec:ID
-Name:Ego Vandal|8c22a4b2-4da0-f2f2-9bd1-c89d106cd646:ID
-Name:Wasteland Vandal|32b87592-45ad-c5a6-44ae-a9b844137c58:ID
-Name:Winterwunderland Vandal|16716d68-4d36-320f-aafd-f6a6bfa5abe2:ID
-Name:Bulldog|ae3de142-4d85-2547-dd26-4e90bed35cf7:ID
-Name:Araxys Bulldog|26d0c312-46c2-1912-302a-b7b8f62640ca:ID
-Name:Radiant Entertainment System Bulldog|e8bf5459-4789-f9bd-bfd1-c5bcafec96a6:ID
-Name:Aristocrat Bulldog|c610dbc8-4a90-3c86-7f9e-bfa910f75bb9:ID
-Name:Endeavour Bulldog|3f8be578-4e47-8afd-1e6c-cb9bb326e8b5:ID
-Name:Spectrum Bulldog|fbe04552-445f-f202-923e-6fbd61b7e2aa:ID
-Name:Striker Bulldog|9c056543-44af-0d36-d0f7-1196d93d264e:ID
-Name:Rune Stone Bulldog|8594c025-4c96-e258-13da-53a2f747bca2:ID
-Name:Undercity Bulldog|4be8d0e7-48e0-eaa3-1db4-85a14094f369:ID
-Name:Glitchpop Bulldog|285c6731-4451-b930-7a3d-c5a736d00f5e:ID
-Name:Rush Bulldog|23399beb-4828-0d03-ae24-aaa62b08f796:ID
-Name:Velocity Bulldog|706dcacc-432b-47e5-3cf7-2db432a8afe6:ID
-Name:Shimmer Bulldog|cc8ad3b2-4b0f-6e8d-eae0-c98cc55d002f:ID
-Name:Horizon Bulldog|e931dcc8-48d4-f895-48b1-199ec573625b:ID
-Name:Black.Market Bulldog|1cbbdd73-4b22-4faa-acd0-0a9d6ea1963f:ID
-Name:Bound Bulldog|0f992024-4c40-2ead-311a-79bc37e5e61b:ID
-Name:K/TAC Bulldog|f476843a-4fc1-32a1-5e32-c18b84003460:ID
-Name:Couture Bulldog|199b8536-488a-09e6-8592-ff9cf21b4ceb:ID
-Name:Nunca Olvidados Bulldog|9c91e507-4241-33d1-c63a-aeb9ec3d9d03:ID
-Name:Genesis Bulldog|90e750e8-4a42-f5fc-9160-3ea5e5522c6e:ID
-Name:Oni Bulldog|325d2274-487b-8672-84d6-6db8e9798447:ID
-Name:Cryostasis Bulldog|d832f94c-4490-176e-c625-c3a1130cea19:ID
-Name:Hue Shift Bulldog|c2f87e28-4c3b-5dc3-0109-ffa3a0e43f4c:ID
-Name:POLYfox Bulldog|dbf7b813-4931-3b45-db2b-ea8d418b2b1d:ID
-Name:Protocol 781-A Bulldog|1daefbff-4581-aef3-5ed6-da894d7e4cc7:ID
-Name:Premiere Collision Bulldog|fbf8ca06-41c9-6293-24cc-b6b292db5cf7:ID
-Name:Random Favorite Skin|7baa9f5a-4ac3-804a-2e47-4da916de0b79:ID
-Name:Infinity Bulldog|decd0962-453a-1551-47e1-1287aafb5a27:ID
-Name:Standard Bulldog|724a7f42-4315-eccf-0e76-77bdd3ec2e09:ID
-Name:Tilde Bulldog|006d6b0a-47ba-a909-ade5-0cba66dd5829:ID
-Name:Gridcrash Bulldog|0c0cbd13-4601-e6c1-0180-2181e2461c36:ID
-Name:Convex Bulldog|f580899d-49c4-8bf8-9718-c9a6a38dd503:ID
-Name:Depths Bulldog|4e6341f9-4851-603d-daff-9185f007d3dc:ID
-Name:Varnish Bulldog|9bba8d9a-461e-9783-fcb7-f1a92192fb3a:ID
-Name:Phantom|ee8e8d15-496b-07ac-e5f6-8fae5d4c7b1a:ID
-Name:Task Force 809 Phantom|3d71065e-4f0b-19a8-26d5-129cddeb013b:ID
-Name:RGX 11z Pro Phantom|499acf05-4f79-e345-3714-57bf7aa163ea:ID
-Name:Xenohunter Phantom|fac0cea1-45a9-1549-c120-af8f0150e562:ID
-Name:VALORANT GO! Vol. 1 Phantom|0acbabbe-4f4c-f643-284b-f69029abb54e:ID
-Name:Radiant Entertainment System Phantom|4eb45d71-4fa4-be4f-7409-cf92123f1d22:ID
-Name:Spectrum Phantom|980fa063-436e-e51f-c38d-70a5b93a0f1c:ID
-Name:Piedra del Sol Phantom|d556b1c2-46fa-fca4-0516-5c887fd2352a:ID
-Name:Champions 2022 Phantom|8c72ae0b-4357-1a75-ad62-fbaec7b64f92:ID
-Name:Radiant Crisis 001 Phantom|2371d9e1-498c-1ad1-4f10-d1a339c7fda2:ID
-Name:Nebula Phantom|57f91d68-4cda-76c0-c258-7ba507cd6f87:ID
-Name:Undercity Phantom|ed3ac995-4fd1-3079-27aa-4aab84447833:ID
-Name:Glitchpop Phantom|25a7f0f2-4bce-7e45-b4b0-ca9264f5dfcc:ID
-Name:ChronoVoid Phantom|2aac8bb3-4cfa-b806-21e4-5a8e9904caa4:ID
-Name:Abyssal Phantom|2d1472fd-458c-515a-c4e4-ceaa50c84187:ID
-Name:Doodle Buds Phantom|3a091315-4e87-31d5-7cdb-27804a177fd2:ID
-Name:Singularity Phantom|5eec4ce6-443d-e9b5-4c5b-2b967d426bd3:ID
-Name:Sarmad Phantom|cd07ba8f-4dae-0410-582e-71acdef102ce:ID
-Name:Rush Phantom|8db507b5-4d57-96e0-000e-2d8c8af79550:ID
-Name:Velocity Phantom|a17d4eeb-46e5-a041-ae7b-a2841ac6b36e:ID
-Name:Team Ace Phantom|f7a779db-4835-6561-ce1a-d1921a24de46:ID
-Name:Topotek Phantom|d34edafc-4e48-b2d7-6163-08bf054d3d80:ID
-Name:Soulstrife Phantom|98c9bc4e-4fb3-206f-3f6b-06a17b53e95b:ID
-Name:Prime//2.0 Phantom|44b7b110-46bf-ccbb-2613-29a5df296461:ID
-Name:Avalanche Phantom|c38dced0-454d-d296-522e-6f8643decd3b:ID
-Name:Bound Phantom|2f1da068-4779-d711-85ae-90840f0e38fa:ID
-Name:Prism Phantom|6586a7db-4041-6a29-f37c-d6817657caa5:ID
-Name:Serenity Phantom|a903e567-480f-a3f9-adb8-1da714a2d63c:ID
-Name:Ruination Phantom|5b43d27b-419c-f2bc-53fe-d7829dad46b3:ID
-Name:Kingdom Phantom|e13afe1e-4734-2094-fee8-9db016e4d54a:ID
-Name:Kohaku & Matsuba Phantom|8f82cff0-44b9-b792-8dd2-b2be8538421b:ID
-Name:Smite Phantom|8d3ead4a-4421-f1f2-4292-ecac859fc135:ID
-Name:Celestial Phantom|8c0cc1e8-4c1b-20a0-122d-16b4334d1b80:ID
-Name:Spline Phantom|13f553a1-4124-7c29-05e9-e7932fdeabb6:ID
-Name:Minima Phantom|2e3538f1-450f-cfe6-f93e-73862cd39314:ID
-Name:Galleria Phantom|41892314-4a99-0048-1838-e38cd680ea26:ID
-Name:Silvanus Phantom|25824735-478d-30b7-8fc9-95b1999f9d3b:ID
-Name:Ion Phantom|e86bf7e4-4dd3-fbee-533b-fa875344bbaf:ID
-Name:Oni Phantom|36791b03-452d-8dad-0091-898cc28d2196:ID
-Name:9 Lives Phantom|762aca85-4bf4-73a5-932a-2aa8407c31b3:ID
-Name:Hue Shift Phantom|3a204da4-4aa4-d02f-73a0-55867bc8d501:ID
-Name:Aero Phantom|56f075b7-4171-a977-90ac-d5ad786f1478:ID
-Name:Artisan Phantom|909daea4-49ab-7b99-46fb-aa8c9e6fd837:ID
-Name:Protocol 781-A Phantom|9877d50b-43b1-837a-802a-bf8a3b98e2dd:ID
-Name:Lightwave Phantom|29665396-4dc8-c409-5e38-228949690f1e:ID
-Name:Random Favorite Skin|fff73ad4-4d46-a6d9-43f1-51b633845434:ID
-Name:Snowfall Phantom|a74f77fd-4e69-f16e-b1eb-ceb5198f423d:ID
-Name:Reaver Phantom|044b28ba-4c3b-d315-140d-d9a249da5567:ID
-Name:Recon Phantom|d67b929f-4431-61c0-286e-3ebf3d11c4af:ID
-Name:Infinity Phantom|1f835677-4ed7-fec2-6b80-c3ac384323f6:ID
-Name:Reverie Phantom|fb86d3b7-45f2-6a97-c468-51ab29cb4a04:ID
-Name:Standard Phantom|337cb216-4a6e-d85d-88c2-f29ab317784c:ID
-Name:Tigris Phantom|e0cf9566-452c-1501-43b1-778e69c60dbf:ID
-Name:BlastX Phantom|59af9c5d-43ee-1360-f3a7-a9a6ff6e478b:ID
-Name:Winterwunderland Phantom|a5c64455-4fd0-9207-fc97-e086af99a2a6:ID
-Name:Judge|ec845bf4-4f79-ddda-a3da-0db3774b2794:ID
-Name:Piedra del Sol Judge|d7717613-4ef6-b314-6a95-9e8a1ee603bf:ID
-Name:Undercity Judge|e413125e-40c6-cccd-de35-f28e34c57442:ID
-Name:Glitchpop Judge|28a659a4-439e-fcd0-6236-d39979ee5c51:ID
-Name:ChronoVoid Judge|4d2ec3f4-446e-a501-74d8-5ab750f50984:ID
-Name:Elderflame Judge|0221b120-444b-6d1b-fc50-e4a98e470eb2:ID
-Name:Rush Judge|f6db3976-4c70-c3bf-01f8-dca6d335319a:ID
-Name:Team Ace Judge|fdf7fef7-43db-9409-be4c-44bc0b5084f6:ID
-Name:Shimmer Judge|ce38c32d-43e6-e840-3981-668454383e22:ID
-Name:.EXE Judge|fbd23fdf-4d7b-8a50-afa5-c3ad6e7266e5:ID
-Name:Goldwing Judge|37735cf0-4c4f-6efd-6222-8582622d68a0:ID
-Name:Hydrodip Judge|3d8f9c7d-4259-4710-1f94-0fbc4f25035c:ID
-Name:Outpost Judge|400d71b1-4090-6abf-224e-21938569fe24:ID
-Name:Bound Judge|1c7e4522-49f7-4125-a7ca-1f8c943c804e:ID
-Name:Prism III Judge|1fc3f066-4211-d65a-42ab-b287c6bb2448:ID
-Name:Serenity Judge|3a1c857a-4671-0667-8efe-ee90b8ba1e5a:ID
-Name:Kohaku & Matsuba Judge|da3cedea-4f2e-c501-ec79-438433ffabdf:ID
-Name:Smite Judge|5324bc65-44aa-1a16-ede4-0e9b56f35d0e:ID
-Name:Iridian Thorn Judge|0cba5a5f-41ab-ed7d-158e-4fb92ab25c47:ID
-Name:Celestial Judge|57ad1e5d-4289-4de0-7926-899cef10db37:ID
-Name:Luxe Judge|5237cfca-4d83-6190-a7f9-d2bdc117ea67:ID
-Name:Coalition: Cobra Judge|0b8816a2-42ad-9353-c591-f7863981d7fe:ID
-Name:Crimsonbeast Judge|5e342c5c-4757-4c4e-ca7c-a4b97930308b:ID
-Name:POLYfox Judge|5d217dd0-4f2c-cfca-274e-3f8f9d518b13:ID
-Name:Divine Swine Judge|a913d712-4c29-d7f4-0f8a-d790e023ba3c:ID
-Name:Jigsaw Judge|ba93a991-407f-0c47-2d26-72a4196b4164:ID
-Name:Sensation Judge|8e27a0b3-4dc9-e2a7-e33a-29a616efc244:ID
-Name:Random Favorite Skin|68f2e92e-4c94-8104-ed99-03925bbc71e8:ID
-Name:Snowfall Judge|a07941d7-42dc-5083-97a1-af850ca6fa26:ID
-Name:Standard Judge|acd26127-48ff-8b9e-7ba6-b989af8a4b24:ID
-Name:Tilde Judge|91cea710-495b-fd95-9e7a-6c928a0c5449:ID
-Name:Gridcrash Judge|4b77be03-4410-1ac5-0b9e-82b326cd990f:ID
-Name:Convex Judge|03751fa0-46db-0df3-b8cb-99adf373ecda:ID
-Name:Varnish Judge|87591a69-47c1-a052-ba85-33a8097a0b07:ID
-Name:Bucky|910be174-449b-c412-ab22-d0873436b21b:ID
-Name:Altitude Bucky|613152c2-47cf-be72-9b45-b6958117b220:ID
-Name:Xenohunter Bucky|0666931c-4580-efd0-af47-afb9f2f72e55:ID
-Name:Piedra del Sol Bucky|001e4ce2-4b30-8203-365a-828e2e3a5826:ID
-Name:Origin Bucky|96495eb3-40db-cb5b-1c69-17a3dde58ee3:ID
-Name:Radiant Crisis 001 Bucky|31072cda-4041-b4f0-119a-3692ea598321:ID
-Name:Red Alert Bucky|1322a9a8-49ad-bc3a-2319-fb866e21334c:ID
-Name:Surge Bucky|aa6162a5-4c73-1c6f-5c69-9b9082e321fd:ID
-Name:Topotek Bucky|4a1d582d-4c3b-6595-57b6-e3b2cf0ee543:ID
-Name:.SYS Bucky|82204cf0-4a3d-2802-6eb9-9eac53472a3f:ID
-Name:Horizon Bucky|d493bec2-4e3f-19cd-8363-b1921489413c:ID
-Name:Monarch Bucky|8f26c1e0-46b7-72d2-8307-11b03f3332f2:ID
-Name:Hydrodip Bucky|50b0db3d-46a9-5c2f-2e57-7fbeedf30362:ID
-Name:Prime//2.0 Bucky|89eebdb1-4df6-0a1d-8988-f495cca4badb:ID
-Name:Prism II Bucky|a6b07d50-4731-2775-042e-a896cb51bf13:ID
-Name:Kingdom Bucky|75e55415-45ce-b48b-b471-84bef2368e33:ID
-Name:Iridian Thorn Bucky|d95fe9cc-4b39-6f54-1912-d796b5912481:ID
-Name:Magepunk Bucky|5ac14aef-41cc-a0c8-895f-e1a69b33aeff:ID
-Name:Galleria Bucky|2a0700dc-4181-ae19-2b49-818b24dceacb:ID
-Name:Genesis Bucky|daf3c0d8-4c6f-23c0-20cc-96b0386b548f:ID
-Name:Ion Bucky|31f6f214-4379-749a-9285-04a5561e2d03:ID
-Name:Oni Bucky|7da96a2a-43ce-91c2-28f9-0c95529d133e:ID
-Name:Artisan Bucky|1a97f146-4fcf-5a04-140e-4390feafaa73:ID
-Name:Lightwave Bucky|26582dc8-43dd-15b6-a31c-739b90302bea:ID
-Name:Random Favorite Skin|ed407bc7-4949-3131-b84f-d6be83b63a15:ID
-Name:Gravitational Uranium Neuroblaster Bucky|0dc9a874-41c5-e582-9a36-37946043346c:ID
-Name:Cavalier Bucky|e6eefed6-4d10-5794-4859-6d9ab5ff1d66:ID
-Name:Titanmail Bucky|1ecb1abc-41a4-f789-39a5-4583f043d688:ID
-Name:Standard Bucky|70c97fb2-4d79-d4bb-5173-a1888cd4bfd9:ID
-Name:Aerosol Bucky|cf2cc18c-42ec-3fb0-4ca7-3583373a33ab:ID
-Name:Frenzy|44d4e95c-4157-0037-81b2-17841bf2e8e3:ID
-Name:Task Force 809 Frenzy|1bd0b030-49b3-4733-d6f0-28bcb7ed6df2:ID
-Name:RGX 11z Pro Frenzy|d5ea8ae9-4055-9b65-1f39-ed97372d887a:ID
-Name:Xenohunter Frenzy|a4b0cd8b-40dc-41e3-646d-d58802b2e310:ID
-Name:RagnaRocker Frenzy|7d05d1ce-4bf2-fa96-d8f4-dca86052e3d2:ID
-Name:Origin Frenzy|cceb25d7-41e7-1944-515f-2eb5695fd5cc:ID
-Name:Glitchpop Frenzy|5596d764-4b62-210b-59db-7982e9d4c23f:ID
-Name:Elderflame Frenzy|4fb9ea7d-45a6-9154-7a46-648781b081c4:ID
-Name:Sarmad Frenzy|3fd33106-4816-c257-d27f-2b86c5d76c66:ID
-Name:Rush Frenzy|a010c5fc-4343-067d-4dfb-ee836ec0a45f:ID
-Name:Venturi Frenzy|5c0965bc-4860-94a3-a133-b29b08f75051:ID
-Name:Team Ace Frenzy|5947209b-4864-fb3b-bc48-74a7924e4412:ID
-Name:Swooping Frenzy|d6af3716-4ab5-8204-a2f4-1eb4ffc51088:ID
-Name:Horizon Frenzy|17162b11-45fc-5b66-2e49-79ac9d60032c:ID
-Name:Monarch Frenzy|b543f6c4-4404-4e5e-1fcf-67a0cd8e9bc4:ID
-Name:Hydrodip Frenzy|8256eb2c-4368-9da8-521f-379c3793dce1:ID
-Name:Prime//2.0 Frenzy|51446541-47dd-b661-470e-9d89b3b6a33b:ID
-Name:Couture Frenzy|08bfb08f-48cc-2699-2f5c-aabec43dd43a:ID
-Name:Nunca Olvidados Frenzy|a878b90b-4d32-6e85-d49e-82bfba69471f:ID
-Name:Celestial Frenzy|307dbbc2-442d-b92b-0af2-278a8505672a:ID
-Name:Coalition: Cobra Frenzy|bb46d680-4e05-bacd-6ecd-11895d2f22e7:ID
-Name:Moondash Frenzy|87643553-437b-d057-8f06-25b5bd723378:ID
-Name:Ion Frenzy|906dcda9-477a-6d09-f85d-599ccb86e168:ID
-Name:Oni Frenzy|7a20502f-45b2-6781-b408-08bc86c5e5e2:ID
-Name:Spitfire Frenzy|5bb5acb1-44dd-184b-484e-319188ef78eb:ID
-Name:Aero Frenzy|12e6f520-460b-e69b-0617-bab9fff1a134:ID
-Name:Divine Swine Frenzy|fa0bb312-4446-a061-9b06-ee88314e07fa:ID
-Name:Lightwave Frenzy|f67d4d78-4567-f8ca-010b-18919c49aa05:ID
-Name:Sensation Frenzy|531135cc-48cb-68bf-8c99-149e46670c80:ID
-Name:Random Favorite Skin|7b82c605-44bb-aae9-55bf-a4afef323553:ID
-Name:Titanmail Frenzy|324c837d-4e55-a259-0852-92bc27e724da:ID
-Name:Live Wire Frenzy|f7fc6f86-4599-e131-e392-d6b2dfabd8cb:ID
-Name:Standard Frenzy|f06657f3-48b6-6314-7235-a9a2749df5b9:ID
-Name:BlastX Frenzy|79005812-4d5c-cc6d-e2bd-19bc86c29349:ID
-Name:Classic|29a0cfab-485b-f5d5-779a-b59f85e204a8:ID
-Name:RGX 11z Pro Classic|111680fd-4562-f658-af1c-ed8f9cfe9f9c:ID
-Name:VALORANT GO! Vol. 2 Classic|b06e13ff-4f19-c750-ffcd-8084dfc3bbf5:ID
-Name:Spectrum Classic|46f32f75-4fc8-7121-8a77-db8db43afc67:ID
-Name:Pistolinha Classic|34919680-4f00-554b-0c2b-95acca7d0d36:ID
-Name:Striker Classic|6f6b606f-4d9c-c071-b817-9ea59d5b02d3:ID
-Name:Radiant Crisis 001 Classic|a95d08be-4e56-1189-801b-d9aa4efe32fa:ID
-Name:Red Alert Classic|41fce834-4c76-a0f4-2cf8-cca3ae879eab:ID
-Name:Undercity Classic|ac14dca7-408b-7e8f-8ed0-99b8ed1ffe98:ID
-Name:Glitchpop Classic|8b2598eb-4db9-6338-4a25-c780402c780e:ID
-Name:Finesse Classic|3af7fef0-48cd-64d3-cead-dcb9cd07865a:ID
-Name:Surge Classic|6cc70eae-4297-91d5-adb9-efa48004da77:ID
-Name:Songsteel Classic|10354287-40e9-4087-85c5-aea7289d31f2:ID
-Name:Forsaken Classic|c612138e-4007-6d0c-64ad-3690c65ee4a7:ID
-Name:Shimmer Classic|9a6d4520-48a6-d46c-5a3f-2ab0b10dd8f6:ID
-Name:FIRE/arm Classic|144ac55d-42b9-338c-fb32-c9a31f4da5bb:ID
-Name:Goldwing Classic|1180c78d-4b0d-491e-efdc-cfa5d948fa27:ID
-Name:Prime Classic|d653f4a7-4e92-2559-0a97-2c9d46d009b3:ID
-Name:Avalanche Classic|6b6a219d-490a-45f1-1e5c-40bbf3df5f28:ID
-Name:Black.Market Classic|a6b46cef-4ed2-79e4-d49a-459180cdbd23:ID
-Name:Bound Classic|94bc4d7a-4b88-4c84-efef-969cdf84019e:ID
-Name:Prism III Classic|62abf8b2-4511-131d-42c9-81a5efd1b901:ID
-Name:Kingdom Classic|e72d72ab-4284-1469-b544-478a811a29a6:ID
-Name:Kohaku & Matsuba Classic|be7cf362-4993-b9e4-9ba9-cdac6c99b8e4:ID
-Name:Smite Classic|22fdc42d-4ad6-2bec-8033-8a8bdf178826:ID
-Name:Spline Classic|750d4f04-4fea-391b-fa8b-539815a63164:ID
-Name:Galleria Classic|2f9f4637-4377-b55f-97a1-1e8974e29b27:ID
-Name:Cryostasis Classic|edb386a1-4d02-4fd0-2f84-f8bf6434e5c4:ID
-Name:9 Lives Classic|f3f962bd-4a19-b363-e939-6a91b897a28c:ID
-Name:Premiere Collision Classic|c4c0edc9-4ce3-3945-81f5-1bb80aeb22fe:ID
-Name:Random Favorite Skin|3e3ad47a-4383-73f1-4d92-1693059dae8f:ID
-Name:Gravitational Uranium Neuroblaster Classic|81ddbfcd-4081-8341-ff76-ad8cdb26ce4c:ID
-Name:Sakura Classic|6ba7a7a0-4057-4d5c-7c98-579f232db298:ID
-Name:Snowfall Classic|464887be-4a07-690e-2d02-e187c8bbe8d5:ID
-Name:Infinity Classic|706f4a29-4a95-7370-c983-1a8b167e38b7:ID
-Name:Reverie Classic|8bc021a4-4832-300e-2844-afa3d1d9465f:ID
-Name:Standard Classic|24aee897-4cdc-b0fd-e596-1ba90fa6d1b2:ID
-Name:Final Chamber Classic|47d5e54a-48e5-b62a-5cf5-3cb7efc12e90:ID
-Name:Ghost|1baa85b4-4c70-1284-64bb-6481dfc3bb4e:ID
-Name:VALORANT GO! Vol. 1 Ghost|3714831b-4b90-bb6b-4185-7fb05ba9b9a2:ID
-Name:Radiant Entertainment System Ghost|9ad4308f-4ffb-03a8-25c3-7a80b60579de:ID
-Name:Gaia's Vengeance Ghost|daed0e44-4ab6-22b4-a5a5-57a4957a056b:ID
-Name:Endeavour Ghost|cd281dcd-4276-1def-11d9-74a4a72db204:ID
-Name:Piedra del Sol Ghost|9db45d13-4cc3-4b6c-4801-459b79f8cda5:ID
-Name:Starlit Odyssey Ghost|df65f29b-465c-827a-7c34-15be149b883e:ID
-Name:Topotek Ghost|e223e993-45f5-013b-4259-11b263184752:ID
-Name:Spitfire Ghost|d2ed8432-44a2-fb53-cd5f-089251862942:ID
-Name:.EXE Ghost|67d3e2f7-4b73-7598-0027-63bd9e2e5fcc:ID
-Name:Hush Ghost|a1d3a9e2-4f61-b1f7-3a01-cf867264d1cb:ID
-Name:Soulstrife Ghost|2fcdb6c8-4183-0079-13fe-2cb51da0b87c:ID
-Name:Infantry Ghost|65ce6a98-4867-b695-279f-819c44ec6f95:ID
-Name:Goldwing Ghost|44be88b3-4a0e-64c8-950d-66a969e71f7e:ID
-Name:Outpost Ghost|377ea8ac-46bf-52da-3173-109c2950dc9d:ID
-Name:Prism Ghost|8163db1a-4e3c-8f11-92fd-bc9e26253593:ID
-Name:Serenity Ghost|d8314b6c-45fc-fbda-a797-569a24c11bb9:ID
-Name:Ruination Ghost|8a513c24-4c4d-ac15-6066-a1b2ff577041:ID
-Name:Luxe Ghost|cb98b0d6-4e26-973c-c10d-a38637d04b65:ID
-Name:Magepunk Ghost|33824a13-453b-0636-4ec4-e19708aa934e:ID
-Name:Artisan Ghost|8dfec665-4836-d498-2896-08a16c092133:ID
-Name:Jigsaw Ghost|f20bdd80-4cbf-67a8-106e-72bbf94336aa:ID
-Name:Luna Ghost|4ab1d112-4ae0-4841-11f8-b198cb847862:ID
-Name:Random Favorite Skin|b4903002-4687-1953-847a-e0b09a2b2726:ID
-Name:Eclipse Ghost|4725c2c4-45b7-d9ab-ff4f-a79c3b2dd9ec:ID
-Name:Lycan's Bane Ghost|1a9afd32-46fc-43c1-ab92-0a95e912805b:ID
-Name:Reaver Ghost|c7261be6-47d2-ef86-82f4-6a844e45d33c:ID
-Name:Tethered Realms Ghost|efbd92f3-4abc-b077-76fd-dc805b3d72a0:ID
-Name:Sovereign Ghost|a9890917-41ea-eb55-47e7-ee990a87fa4e:ID
-Name:Recon Ghost|bb28991f-4ca9-ca54-962d-31b68c838625:ID
-Name:Cavalier Ghost|153b2b33-4e6c-fb98-42dd-5a9819649dc7:ID
-Name:Standard Ghost|1c63b43b-43c4-04e4-01c9-7aa1bffa5ac1:ID
-Name:Gridcrash Ghost|fbba3f7e-402a-92f3-b3d6-a69d653e5204:ID
-Name:Depths Ghost|69addb00-4eb5-eebb-c4c5-2296549cba6f:ID
-Name:Ego Ghost|b84df096-4096-e9c4-0869-8e83e7fc5476:ID
-Name:Vendetta Ghost|0a6edcf0-4a64-0ed5-1b10-0e96c2eb4cb4:ID
-Name:Winterwunderland Ghost|845a6945-414c-c916-6041-e4a3ef1108cd:ID
-Name:Soul Silencer Ghost|e24330ef-4315-512c-4588-95a601995888:ID
-Name:Sheriff|e336c6b8-418d-9340-d77f-7a9e4cfe0702:ID
-Name:Wayfarer Sheriff|34f735c0-4fcd-b4fd-fb34-fbab97b42a41:ID
-Name:Immortalized Sheriff|304e1a7a-411d-2d27-dad6-c09702b5ea2f:ID
-Name:Altitude Sheriff|1946d021-4c01-2cc7-d29e-4eb9e90279cd:ID
-Name:Aristocrat Sheriff|840f12d8-467b-1a5e-f79c-b893b72b2fbc:ID
-Name:Nebula Sheriff|55ef0ffa-44fe-03ac-dcf0-1982df0857aa:ID
-Name:ChronoVoid Sheriff|e1fdd246-4a6c-af26-f0a0-65a48f2586da:ID
-Name:Abyssal Sheriff|79a78823-41dd-a2e8-7586-12bc8154d2d9:ID
-Name:Singularity Sheriff|bfd9e773-4376-1f6a-98f2-dc93f0c0607c:ID
-Name:Surge Sheriff|2674c385-4397-0383-04df-988d8d6fd2c8:ID
-Name:.SYS Sheriff|3850ea5a-4e51-d913-7a44-48b2589e06b9:ID
-Name:Protektor Sheriff|4f1fde01-4130-0ae7-1320-6fb2f2fb6ab9:ID
-Name:Prism II Sheriff|3194b53a-40a9-a419-a8a6-43b1a53cd0e9:ID
-Name:K/TAC Sheriff|95eb82e2-4859-5564-7b3b-ddbf2fb8088d:ID
-Name:Monstrocity Sheriff|f8dfd0ad-496b-2b31-fff8-dea9de2f04c0:ID
-Name:Iridian Thorn Sheriff|6b57a839-4f3e-8df9-4b05-0db2c9fa1fae:ID
-Name:Magepunk Sheriff|6460edbf-458d-bf61-7519-519305ba5da2:ID
-Name:Signature Sheriff|cb89c7bb-445e-dfec-ad4a-b0ba37271329:ID
-Name:Minima Sheriff|46ffe3ea-4fb5-7773-6242-f5b57bf53ef8:ID
-Name:Silvanus Sheriff|721ab58c-4ba2-b7ae-c571-0993d9799fc5:ID
-Name:Crimsonbeast Sheriff|97a3cdc4-4f3a-ed26-02d6-6dbf6c1380d0:ID
-Name:Ion Sheriff|83778c03-45a3-67a2-3c89-6b8598327d58:ID
-Name:POLYfox Sheriff|54337477-4aec-4a68-4673-7c8731639d30:ID
-Name:POLYfrog Sheriff|91d95358-4a3e-3abc-a251-98826225f18d:ID
-Name:Protocol 781-A Sheriff|84589da8-4e2b-11bf-ca52-b88e6b7e1dbd:ID
-Name:Lightwave Sheriff|a5057a74-4a6a-561c-6974-d19a2b939599:ID
-Name:Random Favorite Skin|d26ce959-4ed2-7105-8f33-dea48e26de4a:ID
-Name:Sentinels of Light Sheriff|2ba3ded8-47d5-58e3-1307-39800214636d:ID
-Name:Sakura Sheriff|19b997bb-461a-fa85-250d-a8b0b8908fea:ID
-Name:Peacekeeper Sheriff|26ff0e3e-469a-cbdd-f79f-a3b89556cdef:ID
-Name:Schema Sheriff|0568cd14-42ca-db85-3ac2-c485079bbbf1:ID
-Name:Reaver Sheriff|a40a6ce2-462c-c864-5d30-7b9408b98d3d:ID
-Name:Standard Sheriff|1ef6ba68-4dbe-30c7-6bc8-93a6c6f13f04:ID
-Name:Convex Sheriff|e8fd8fc3-40ce-3ed1-235a-1c8d9654874f:ID
-Name:Varnish Sheriff|42eaceac-46b2-eec0-2cca-10937761fe9e:ID
-Name:Wasteland Sheriff|9913da36-48b4-f0f5-db4e-43847a21e476:ID
-Name:Game Over Sheriff|121bc438-4748-b2ee-2c58-768c8c26838b:ID
-Name:Arcane Sheriff|84d840c5-4479-4395-d823-e7acbe634c5e:ID
-Name:Death Wish Sheriff|bb0d20c6-415d-cf24-e738-0f99db6f9195:ID
-Name:Shorty|42da8ccc-40d5-affc-beec-15aa47b42eda:ID
-Name:Sidekick Shorty|b454bb93-4dd5-5a7c-6720-38afd82bfd78:ID
-Name:Araxys Shorty|4e98f273-472c-3376-7195-46a1f81402cc:ID
-Name:Neptune Shorty|646e713f-4999-6c56-094c-dd9114bdb35a:ID
-Name:Karabasan Shorty|0581fb92-4b2d-0ede-6bfc-8d93fde11f74:ID
-Name:Rune Stone Shorty|acedb6db-407b-5d62-9c27-07bbb2313fe3:ID
-Name:Prelude to Chaos Shorty|c9572061-4ee1-ff7d-b60c-ebac198d3706:ID
-Name:Doodle Buds Shorty|9a37b09b-4768-b368-52ef-58ac62564637:ID
-Name:Hivemind Shorty|3a921c7b-4e8f-8543-bee8-01ba6da86874:ID
-Name:Velocity Shorty|15588213-4d09-344b-c7e1-28af37374c82:ID
-Name:Ruin Shorty|1064fbd1-416c-bf00-0e30-a282a359847f:ID
-Name:Monarch Shorty|7a3a9e66-4ac1-df74-193b-1984303f4f71:ID
-Name:Prism II Shorty|039207fd-4911-9d6b-b7ba-e3ade36ef77e:ID
-Name:Wunderkind Shorty|310b80d8-4e1b-b4f0-b713-9dad458ce734:ID
-Name:Genesis Shorty|fcb18a37-4a0d-ecd3-ee2c-c38496ed5ae2:ID
-Name:Oni Shorty|b36dad11-4105-6c08-0486-17ba96d0f2a4:ID
-Name:Snakebite Shorty|9428e52d-4611-c8ff-1b63-7b8e386fe8cb:ID
-Name:Hue Shift Shorty|df0e23fe-4529-a9d5-c4c6-eaae086bda65:ID
-Name:Random Favorite Skin|075e4cf0-469b-25dc-8d6f-2995fbb093de:ID
-Name:Standard Shorty|48ad078a-4dae-2b85-a945-f4b6d1efecbb:ID
-Name:Aerosol Shorty|a39bd1bb-4b17-4d57-c505-7eb15caffa4d:ID
-Name:Tilde Shorty|ae2ea89b-495e-2902-f67f-3490c1a03754:ID
-Name:Tigris Shorty|7b51fc8a-4a5c-712e-c663-e6a7eeb61d91:ID
-Name:Wayfinder Shorty|e917273f-42d1-3a8d-7c9e-54afd6e5e68d:ID
-Name:Wasteland Shorty|30635237-4877-4ea4-5ac4-239474d3a662:ID
-Name:Operator|a03b24d3-4319-996d-0f8c-94bbfba1dfc7:ID
-Name:RGX 11z Pro Operator|2e1936ed-4582-628f-da9c-25a7f47323cc:ID
-Name:VALORANT GO! Vol. 2 Operator|4a1e0934-46ae-fa2a-a009-05ade5d43402:ID
-Name:Araxys Operator|6db556e4-4255-6c2c-6a80-8a9dfac96aa9:ID
-Name:Radiant Entertainment System Operator|507330d3-4311-e010-183b-aba00a0705f1:ID
-Name:Endeavour Operator|bdf1484c-44a7-2ef1-3d21-45b66ff8a89f:ID
-Name:Origin Operator|17831113-4ff0-a6c9-0b20-6f9c077d74a2:ID
-Name:Striker Operator|90ba4949-4a6a-cc54-efb2-3dbdbe1bf69c:ID
-Name:Red Alert Operator|33aaa643-4bc4-4c5f-2762-228c7fc03949:ID
-Name:Glitchpop Operator|a491b943-43e3-4e98-64a6-fc87fca43605:ID
-Name:Prelude to Chaos Operator|b450a73d-431e-56b7-5b7f-67bddd38ee66:ID
-Name:Elderflame Operator|d722313d-43cb-b38d-7841-75880a3ed2cb:ID
-Name:Nitro Operator|44064b11-4e74-19c9-80a4-9f80875adaf5:ID
-Name:Forsaken Operator|c692e38e-4f38-0141-d0c9-aa99fab9362a:ID
-Name:Team Ace Operator|279a54f8-4344-cd72-1d5b-15aa0e86a630:ID
-Name:Spitfire Operator|93ccaf1f-4e44-0bc7-9ec4-ebab43f73d10:ID
-Name:Infantry Operator|341ef273-43fb-7911-71e8-50adada4cee1:ID
-Name:Prism Operator|5ced2c69-442e-d1ad-83fe-8fb8b2ac0c0f:ID
-Name:K/TAC Operator|9ffd45c4-4fa4-dca0-f46f-2d99ad1eae20:ID
-Name:Kohaku & Matsuba Operator|403cce8c-4484-a796-a6f6-a0a07d9832e0:ID
-Name:Iridian Thorn Operator|cb07878f-484f-50dd-ab6b-5380640b13c5:ID
-Name:Luxe Operator|0bd5da19-491f-dd4a-27e2-c9959b10a87a:ID
-Name:Magepunk Operator|7e831918-4580-5e2a-089a-84ad58fe1aae:ID
-Name:Spline Operator|b2164926-4b85-852a-4bd7-d9bc27a642da:ID
-Name:Minima Operator|a0a446f1-443d-3dc8-49c7-f2a70849f092:ID
-Name:Silvanus Operator|83b49f36-4085-8179-6896-1a99f2d2d1d8:ID
-Name:Genesis Operator|de8d2ff4-49e0-c0a9-d29b-2da688220a01:ID
-Name:Ion Operator|bbf8ffb9-49c0-75c0-cc7d-8f8f03a4bd36:ID
-Name:Cryostasis Operator|b2783916-483a-9112-89c6-64b8d927b78c:ID
-Name:Random Favorite Skin|acdd29aa-44b5-0d78-dc54-8f92ed555559:ID
-Name:Gravitational Uranium Neuroblaster Operator|c21e2f34-4b8c-4350-33c8-a8b626ecaadc:ID
-Name:Sentinels of Light Operator|b05c4c98-4108-e442-add7-da99a95a37b6:ID
-Name:Reaver Operator|aecab890-43b7-d719-06bc-9295e3d116dc:ID
-Name:Tethered Realms Operator|e7ba6cec-495f-e08e-f8eb-6e90228bdf9e:ID
-Name:Cavalier Operator|d47f9576-426f-4da3-761d-39967489550c:ID
-Name:Standard Operator|d1f2920f-469a-3431-ad96-96afbd0017f2:ID
-Name:Aerosol Operator|5f260f34-4021-ab2c-8080-6287c4f9974b:ID
-Name:Tilde Operator|44175b4f-4503-4ce4-25fc-32a995d872c1:ID
-Name:Tigris Operator|b53a990d-45c2-6212-a98f-b0aa5d6e6c23:ID
-Name:Convex Operator|ccb54094-4db8-2c9f-656b-f1bff329f469:ID
-Name:Guardian|4ade7faa-4cf1-8376-95ef-39884480959b:ID
-Name:Immortalized Guardian|6558fd5d-4dc7-90f7-beea-ba9303551c3b:ID
-Name:RGX 11z Pro Guardian|da29ce1e-43bb-c043-9cbc-34850517dc23:ID
-Name:VALORANT GO! Vol. 1 Guardian|2c32d9e3-42a1-7387-35ef-0c8eefacee1c:ID
-Name:Neptune Guardian|1082032a-4f20-12db-93ea-549332f91ddf:ID
-Name:Gaia's Vengeance Guardian|abd5415f-4851-244f-4b8b-31af8e268822:ID
-Name:Spectrum Guardian|04ccfe05-497c-2d52-2bd0-64a68955175e:ID
-Name:Starlit Odyssey Guardian|16dba725-4de2-8412-c07f-af95c65db9a2:ID
-Name:Nebula Guardian|6141a40d-48cf-8466-6d46-558c0ff145ea:ID
-Name:Abyssal Guardian|97bc040f-44bb-cbb3-c9f4-3aa16d1c0655:ID
-Name:Nitro Guardian|00e6b758-448e-af3b-7dee-879aa4a51324:ID
-Name:Songsteel Guardian|2d5e6025-4166-730e-1024-abb766d19568:ID
-Name:Spitfire Guardian|3ab36c94-4c91-d722-6f10-11bbbe382159:ID
-Name:Ruin Guardian|453a734b-4f14-9183-2be8-97b01f603368:ID
-Name:Soulstrife Guardian|7422b876-443e-b975-faab-0ebf73dbc075:ID
-Name:Infantry Guardian|acd76d4d-4d05-2597-d63b-12851b2b61ee:ID
-Name:Hydrodip Guardian|06854a71-4eac-cb4c-cdbe-bbbdda492e9c:ID
-Name:Prime Guardian|2a049f35-4bcd-af25-21fd-ec942e2d5007:ID
-Name:Ruination Guardian|8966067d-4023-c88a-db56-2691f163d335:ID
-Name:Magepunk Guardian|80dbfa46-4a1f-c7a4-2e88-1499308c7b9a:ID
-Name:Signature Guardian|26e675c5-46cc-65fb-7be2-db8a64dbde48:ID
-Name:Galleria Guardian|f097983d-4c5a-c7ed-c325-039c99bb824e:ID
-Name:Moondash Guardian|b7931d66-4ca3-d67c-c130-6692c55ae26c:ID
-Name:Oni Guardian|850fea42-419f-f284-84ae-40ae1eabbb5b:ID
-Name:9 Lives Guardian|1a38d03c-4114-6908-37dd-38a85d91cb2d:ID
-Name:Aero Guardian|93309ef5-4f43-411a-5759-c794eb584c7c:ID
-Name:POLYfox Guardian|96679876-4d41-683c-2e5c-2ea25ddd8fdf:ID
-Name:Jigsaw Guardian|23a16911-4cb1-2794-2d4c-3f99f1e2516b:ID
-Name:Random Favorite Skin|874025d8-4293-a38a-96ac-3d94954fb4b7:ID
-Name:Reaver Guardian|db348da1-49f2-0bad-b70a-e4ade9d31655:ID
-Name:Tethered Realms Guardian|77187a8f-4020-da44-a775-7a91ab814cdf:ID
-Name:Sovereign Guardian|7122d78b-4e60-eb4d-5f65-738d7c1ce9ae:ID
-Name:Recon Guardian|539e07ec-49b2-5f22-0d05-91b809229d64:ID
-Name:Infinity Guardian|cce860fd-4f64-7422-5c95-c7ad2cad0f15:ID
-Name:Reverie Guardian|5d23dda7-405a-e903-4681-1a825146f028:ID
-Name:Standard Guardian|3bf1e8e0-47e8-f27a-6054-929575f41a54:ID
-Name:Ego Guardian|0a81818d-406e-1d8c-ce4d-9ba89dfdf1ab:ID
-Name:Marshal|c4883e50-4494-202c-3ec3-6b8a9284f00b:ID
-Name:Task Force 809 Marshal|774dee9a-4809-0e4d-4153-a883e908d4b2:ID
-Name:Gaia's Vengeance Marshal|fc802ceb-4a39-39ac-adf5-02a812be2f8e:ID
-Name:Rune Stone Marshal|db3bf2d9-449e-cd8a-950e-018ca893d404:ID
-Name:Doodle Buds Marshal|6250b40a-43a4-55d8-79d4-f6838d58151d:ID
-Name:Songsteel Marshal|51da27fe-4a3f-016a-d18d-b68a47545f6f:ID
-Name:Venturi Marshal|f037ea38-4be9-0f3d-003c-6f958a71e04b:ID
-Name:Ruin Marshal|027a5d7f-4bfc-7c41-a012-24b8c6720fda:ID
-Name:Monarch Marshal|028c7b80-46ea-8f1d-3f7a-4c9c13a79977:ID
-Name:Avalanche Marshal|dd58ab43-4ff3-659e-8f30-b8bd26619d4d:ID
-Name:Black.Market Marshal|fe297733-4ada-d817-dd7e-17b9cd1d62d5:ID
-Name:Couture Marshal|6f48f7ff-40a5-cc9e-1320-bdaa388f5cbf:ID
-Name:Magepunk Marshal|27ab5ed6-4614-d5c2-c53f-5391febe7099:ID
-Name:Signature Marshal|d4bcbc96-4be3-aa57-9a6a-11aecf60ac61:ID
-Name:Coalition: Cobra Marshal|805722c4-4ac7-6179-7ce7-658b5f26d6ed:ID
-Name:Galleria Marshal|ad6309b5-4788-d401-33d0-4dbaeeadaf87:ID
-Name:Crimsonbeast Marshal|af77e583-41fc-b0c2-3728-058d02502039:ID
-Name:Moondash Marshal|43353883-446c-c2bf-5d44-298eb948ee80:ID
-Name:POLYfrog Marshal|6eea7984-4ca4-d547-4d50-b4a608072feb:ID
-Name:Divine Swine Marshal|ad83a57d-414c-f714-a97f-99bad1128b2b:ID
-Name:Artisan Marshal|4986a893-48a5-4c23-11f2-70bb9e9d284d:ID
-Name:Luna Marshal|48f218a6-42cf-4f63-0cda-39a5aef5d870:ID
-Name:Premiere Collision Marshal|b273ade7-4971-c274-eb92-219ef6def086:ID
-Name:Random Favorite Skin|457fe5d2-40c8-4490-6834-53a74e709f4a:ID
-Name:Sovereign Marshal|5211efa8-4efd-09bb-6cee-72b86a8a5972:ID
-Name:Reverie Marshal|0dfc1800-4ddc-85fd-8382-32a2824135fa:ID
-Name:Standard Marshal|fd44b2d5-49ee-77ab-fa56-588f3ac0c268:ID
-Name:Wasteland Marshal|19f06522-40c8-8dc6-a0cd-92808b24751f:ID
-Name:Winterwunderland Marshal|c31856f4-4ae1-cfb8-14cc-10a92b81e7c3:ID
-Name:Spectre|462080d1-4035-2937-7c09-27aa2a5c27a7:ID
-Name:Task Force 809 Spectre|e78fb82c-4800-e102-b7a6-33946fa2f199:ID
-Name:RGX 11z Pro Spectre|4f0c9544-469c-0c62-df2e-95b15d6f2333:ID
-Name:VALORANT GO! Vol. 1 Spectre|89b78398-4c56-6371-cad7-8eb78ee3f550:ID
-Name:Neptune Spectre|55153919-4598-cb0f-4759-7ea546c6d121:ID
-Name:Striker Spectre|dbe2c9ea-41c4-522c-9204-dab09bac84d0:ID
-Name:Radiant Crisis 001 Spectre|780a93e6-46aa-50c7-5e73-b885c5f6a141:ID
-Name:Starlit Odyssey Spectre|1e473101-488a-e8ab-41cd-c6ad9d53443a:ID
-Name:Abyssal Spectre|3aebc432-4946-b9dc-ae50-59a6afa68c0d:ID
-Name:Singularity Spectre|0eab3e5c-4de4-e221-34fb-2ab435c89eb6:ID
-Name:Sarmad Spectre|5137dacb-4df6-b513-765b-96b9ecfc435c:ID
-Name:Hivemind Spectre|d405272b-4388-578c-e33b-04842496b8c1:ID
-Name:Venturi Spectre|35469802-4ae2-f86a-dfaa-d484cc29481e:ID
-Name:Forsaken Spectre|a786ea8f-42f2-ae5f-376f-2bb66df1a62f:ID
-Name:Velocity Spectre|6196c91c-4f0a-2aa2-342a-6fbac6d4ec3c:ID
-Name:Soulstrife Spectre|95ca4d2b-4166-8e0e-8d79-d79957f58b81:ID
-Name:Infantry Spectre|8d4d74c3-4771-52a3-b3eb-a38cc0222643:ID
-Name:Horizon Spectre|eb9ec7c9-4c20-e702-81c7-63bbe165aa12:ID
-Name:Prime Spectre|20807bd8-4259-35e5-e54e-c1b214f58cc8:ID
-Name:Avalanche Spectre|a0938d46-4593-19b4-1aa5-f3b32ecb9963:ID
-Name:Prism Spectre|b9836020-433a-ace4-eb35-3fbd67688c53:ID
-Name:Serenity Spectre|4643050b-417c-0d84-3626-27b709c49c67:ID
-Name:Ruination Spectre|f9c2e823-4eeb-d872-8a4c-d5a0bf8a3b6c:ID
-Name:Kingdom Spectre|30b19f29-419b-1adc-3561-40be2b1f7841:ID
-Name:Monstrocity Spectre|bdb396b1-49eb-851c-b107-1ea2027cab26:ID
-Name:Luxe Spectre|3eb4d837-4ae9-b52a-b41d-2789f9974f15:ID
-Name:Magepunk Spectre|a3f8e1b3-4654-f3ea-15ba-9eb9fd6a0b0d:ID
-Name:Spline Spectre|418ef9fe-4675-6620-3755-c19aca3ff131:ID
-Name:Minima Spectre|2d28e21f-4986-650d-70bd-a2927a0e337b:ID
-Name:Ion Spectre|eacea54e-4e53-2715-cd4a-5d860aa68449:ID
-Name:Hue Shift Spectre|ed78f73b-4055-2bd2-7cd6-a1ae7e9025c5:ID
-Name:Aero Spectre|fbaedf2b-4a8b-1949-ddaa-27ab3f6d8ae4:ID
-Name:POLYfrog Spectre|9042279e-4491-1a01-a346-928f89f01ea7:ID
-Name:Protocol 781-A Spectre|eaa73ab9-4688-0c40-09ad-85b535a50723:ID
-Name:Luna Spectre|f45824e7-4573-d473-0e70-959b76fc4dab:ID
-Name:Random Favorite Skin|c79318a6-4ffd-a99f-f452-77947640f688:ID
-Name:Gravitational Uranium Neuroblaster Spectre|4a8e8ff6-44f2-0ebf-6fa8-a5af76b628ee:ID
-Name:Reaver Spectre|1cb1ab52-4c7d-0775-77f4-eaac99968261:ID
-Name:Recon Spectre|26b1c794-4370-f354-ff4d-3a8b95edff79:ID
-Name:Infinity Spectre|53ab2a6a-46c5-32b9-e045-6781e677d7ff:ID
-Name:Standard Spectre|f01d1307-4299-42f5-2c5e-7dab7e69ab19:ID
-Name:Tigris Spectre|910991b7-40de-183d-12ea-d99e67cfa910:ID
-Name:Convex Spectre|c8a5ba23-4f0d-c7de-8e2f-c184e2fc27ba:ID
-Name:BlastX Spectre|b4e5bb69-4e12-113f-c43b-efa5b13cb96d:ID
-Name:Wasteland Spectre|f7da43d8-450b-a03f-ceb7-c4b20f738392:ID
-Name:Stinger|f7e1b454-4ad4-1063-ec0a-159e56b58941:ID
-Name:Immortalized Stinger|66a6a6a1-44c7-beac-0b67-54aaa8243367:ID
-Name:RGX 11z Pro Stinger|282c15e6-4372-2f18-9143-2d9cdd942c4c:ID
-Name:Aristocrat Stinger|42da0f19-4017-5cb8-08a4-368315561fdf:ID
-Name:Red Alert Stinger|0cf70376-4150-39aa-5657-8890617bc0d1:ID
-Name:Prelude to Chaos Stinger|5a4a0ea0-4ac6-d130-c917-45a7bb89ae42:ID
-Name:Doodle Buds Stinger|9444ba80-4ae7-985d-40a2-2788f96dd544:ID
-Name:Surge Stinger|0a128cb6-4bbb-f618-85cb-82bbd17bcbb1:ID
-Name:Shimmer Stinger|3fc40900-4d9d-c22f-c0f6-e0b53827ef83:ID
-Name:.SYS Stinger|bf7e260f-407e-9e16-e47e-ba921c10f046:ID
-Name:Prism II Stinger|338e3ee3-4927-733f-32b6-bcac795d23ac:ID
-Name:Couture Stinger|598bb272-4bfd-ae82-0242-6490cc6f721e:ID
-Name:Signature Stinger|cfbcbbcb-4d51-94cb-2efb-9fbb0d655b45:ID
-Name:Silvanus Stinger|847fe9da-45cc-21d4-0138-7aa4d8b31d8e:ID
-Name:Moondash Stinger|92f1dd4b-47f5-2088-9370-f89857962bc2:ID
-Name:Sensation Stinger|9d7ed392-4c4c-b1c4-7232-3cbb07b2e133:ID
-Name:Random Favorite Skin|d25dfdc4-4fce-e121-88ef-66b5dadeee09:ID
-Name:Sakura Stinger|1cd6f578-483b-37a1-a7ef-9a907fac416a:ID
-Name:Schema Stinger|46c8b165-4ba5-d42c-79e9-4fba8951ca48:ID
-Name:Lycan's Bane Stinger|3d6eb464-4193-a8c6-5aff-d593520163b3:ID
-Name:Sovereign Stinger|8fb27bb1-4080-581d-bcd3-53ae01861654:ID
-Name:Cavalier Stinger|51e2b876-4339-521d-8d68-9aaec119bc1f:ID
-Name:Standard Stinger|940fb417-4a9c-3004-41f5-3e8f1f4178b2:ID
-Name:Gridcrash Stinger|3760761d-4be6-bc25-d9a8-a0b9137651fd:ID
-Name:Depths Stinger|e1297b8f-4374-3131-27a9-38bb0eda1c0d:ID
-Name:Ego Stinger|8fe5ebbc-4ce7-a248-9766-288441706e0a:ID
-Name:Varnish Stinger|26fbcf26-4135-b8e3-277e-8a9c27e3d34d:ID
-Name:Melee|2f59173c-4bed-b6c3-2191-dea9b58be9c7:ID
-Name:Task Force 809 Knife|58442f45-4783-42a2-f4cb-789a27555889:ID
-Name:RGX 11z Pro Blade|9fb366b6-46df-a722-0cf2-9c9b85936f17:ID
-Name:RGX 11z Pro Firefly|03de6b1a-4497-72e8-ae0c-2984b2e7e2b9:ID
-Name:Altitude Knuckle Knife|1bc43715-4679-3f9d-ffc1-d69b373407cc:ID
-Name:Xenohunter Knife|c5482640-4652-6948-29c6-769e8198db27:ID
-Name:VALORANT GO! Vol. 1 Knife|9103fdf7-4361-5ac5-37ae-7cb51f13f45d:ID
-Name:Yoru's Stylish Butterfly Comb|d034911c-45a6-1ce4-e6f5-4cbe57e9d4f1:ID
-Name:Araxys Bio Harvester|a486efac-4415-1bfa-68d1-19bca9968101:ID
-Name:Neptune Anchor|c3f1c9d6-441b-7def-1bf2-2c82719a4de8:ID
-Name:Power Fist|f0ba8044-4964-ba1f-7f0f-e68dc2118d42:ID
-Name:Gaia's Wrath|f91a1dd8-4f5f-bce4-f01d-4da95322c485:ID
-Name:Waveform|400bb847-4f4f-a39e-cd52-589f00b2204f:ID
-Name:Obsidiana|8330a4c0-4e98-1cb7-9695-6b998b77138d:ID
-Name:Champions 2021 Karambit|1ea64c8d-43c4-fce8-7354-01bdd6c0ee17:ID
-Name:Champions 2022 Butterfly Knife|6946cd0e-4e4a-ec4f-9238-dfb71715722b:ID
-Name:Origin Crescent Blade|ac687fc4-40c5-4c41-6a7c-5eb59adabd60:ID
-Name:Striker Knife|31309f0b-49cd-295c-490d-96821a21c72f:ID
-Name:Radiant Crisis 001 Baseball Bat|71020826-483d-34f8-8da7-928f87942c10:ID
-Name:Nebula Knife|a4c41553-4ba5-efee-5685-7a9f0cdf7878:ID
-Name:Hack|c91e4850-4d32-3b12-f411-3e9f644ea616:ID
-Name:Glitchpop Dagger|ddc025b2-475f-889a-2800-80b4215582bc:ID
-Name:Glitchpop Axe|f0c42e14-4a92-132d-dfd4-cbbef103340c:ID
-Name:Terminus A Quo|1b8de6d7-4f37-7170-acd7-e78829f7959a:ID
-Name:Caeruleus|cd6ce089-43fa-c4dc-3f8f-0391cb604b5d:ID
-Name:Blade of Chaos|6e0496c1-4c98-7abe-16c4-7ca3653e5cd8:ID
-Name:Elderflame Dagger|94b40026-4efb-39ea-69d7-fca60be39c56:ID
-Name:Singularity Knife|151ee26c-4e82-e7ca-dad1-099e7fb34774:ID
-Name:Blade of Serket|6417e12d-4f03-13d4-8704-20bf3a1bcb5b:ID
-Name:Songsteel|45129867-4977-e2a5-bead-cb828101b623:ID
-Name:VCT LOCK//IN Misericórdia|9a98f7dd-426c-603e-0569-e9b317c25ee4:ID
-Name:Hivemind Sword|24cf2882-48c7-f287-155a-a4b6b083baa4:ID
-Name:Venturi Knife|2640e9a6-415f-4c3e-cac0-16a24edb41c0:ID
-Name:Forsaken Ritual Blade|ed792f00-43a7-cc88-b64b-b78c9de399a1:ID
-Name:Velocity Karambit|ccde2f25-4525-ef52-e1f0-bd88184bd4a4:ID
-Name:Ruin Dagger|9c350ebe-458b-e6ed-ab77-2fb00cf249c1:ID
-Name:.SYS Melee|c8b926df-4554-1b07-5a43-a9850bafca96:ID
-Name:Soulstrife Scythe|dfe96f5a-4be0-c3f4-8e31-7f962bca2ade:ID
-Name:Prime Axe|e100dff1-4cf5-54ec-aa65-6fadbc22973b:ID
-Name:Prime//2.0 Karambit|9237e734-4a2a-38ae-7438-6cbee901877d:ID
-Name:Outpost Melee|908be835-43bc-b728-35a4-0fa91f612cc0:ID
-Name:Black.Market Butterfly Knife|9b6d0e3d-43eb-e9d5-4069-2194e02d6e6e:ID
-Name:Bound |82fbfa4c-4bac-a6da-c5ed-00898e83637f:ID
-Name:Prism Knife|6fa830c2-4924-87b2-1510-2fa4fbdca1db:ID
-Name:Prism III Axe|0c07c7f3-4532-bc57-d474-26b3b39a38e6:ID
-Name:Broken Blade of the Ruined King|b1e9530d-4618-4f2e-1b75-f1a90c91b19e:ID
-Name:Kingdom Knife|f82aa022-4a6c-fa40-105d-92af6510ae1b:ID
-Name:K/TAC Blade|83e8641b-41d0-821d-5eeb-5999e9294a0c:ID
-Name:Equilibrium|2e4300f9-49b3-6bbe-af7c-94a6f56ff12e:ID
-Name:Smite Knife|46163791-47b9-2ef0-d255-aaa5146051bb:ID
-Name:Catrina|8e760310-4d95-354b-a910-049eaa4d2fc6:ID
-Name:Iridian Thorn Blade|16da5cca-49bc-2516-8ee6-c98d93e2d911:ID
-Name:Celestial Fan|7d45aaad-4ac9-77b1-e7ca-3991be5721dd:ID
-Name:Luxe Knife|4af88517-4949-9caa-9dda-1980f07202a4:ID
-Name:Magepunk Electroblade|c18e781e-40a0-80e6-256a-54ae7355e7eb:ID
-Name:Magepunk Shock Gauntlet|59f627f1-42f3-670d-5323-3499c2913289:ID
-Name:Spline Dagger|f6cfd500-4eab-3c1d-9eeb-188e90731692:ID
-Name:Crimsonbeast Hammer|ec04e1a4-4067-bb9c-c18b-46a80e5f3f1f:ID
-Name:Genesis Arc|3209e2af-4703-088b-ebef-8da89b4cef87:ID
-Name:Ion Energy Sword|46664f5b-49ca-3e09-4fe5-56bdef536335:ID
-Name:Ion Karambit|a590c03a-43b1-a408-4c6b-0bb9fdda1570:ID
-Name:Oni Claw|206fc3fe-45a0-6c19-c367-229b98b6a2aa:ID
-Name:Onimaru Kunitsuna|4e7342a5-4820-2d79-a488-0fa51a4357f7:ID
-Name:Cryostasis Impact Drill|feb4eb97-4ab3-793a-9a92-1b8af59dc023:ID
-Name:Artisan Foil|c39f405f-42f1-acd1-a350-d3af39c32e33:ID
-Name:Personal Administrative Melee Unit|239ed20b-479c-e08e-c4b5-6ba0394576d4:ID
-Name:Luna's Descent|07409307-46cc-98db-ec92-ceb04a865f73:ID
-Name:Random Favorite Skin|b5f42a00-425a-6fdf-61af-bb9a564c3d79:ID
-Name:Gravitational Uranium Neuroblaster Baton|0357caf1-41a9-cb1c-c080-38aab13d9a7e:ID
-Name:Relic of the Sentinel|6fd8cc46-48b3-f02c-46e3-cba372e7a328:ID
-Name:Snowfall Wand|52a1647c-42d9-b40e-16cf-a7821566ad81:ID
-Name:Reaver Knife|0aecb2b8-49cc-560e-42c7-6cbce44f05cf:ID
-Name:Reaver Karambit|b73d7b16-4652-bc5b-5c4c-068aabb19d0a:ID
+Name: Odin|63E6C2B6-4A8E-869C-3D4C-E38355226584:ID
+Name: Altitude Odin|89BE9866-4807-6235-2A95-499CD23828DF:ID
+Name: Xenohunter Odin|94C085E6-48E1-C879-2552-88BF7850C5A8:ID
+Name: Rune Stone Odin|ABEF8114-4495-6DA7-2ADE-02BD0F014FD3:ID
+Name: Glitchpop Odin|97AF88E4-4176-9FA3-4A26-57919443DAB7:ID
+Name: Nitro Odin|2715F184-46CC-BEC1-DD7C-E7B4D1AEB625:ID
+Name: Topotek Odin|85C76090-4DE5-3A3A-A763-F4A7B779E8ED:ID
+Name: .EXE Odin|CDA41B87-4D3A-C17C-5F6D-8990CC9C5EFB:ID
+Name: Prime//2.0 Odin|157BCEBE-484D-82E2-2A60-C8B4B11197EA:ID
+Name: Prism III Odin|72E724E9-4BA4-2D12-CE1A-8DB1A528B9D3:ID
+Name: Smite Odin|9E648B20-4ED5-1F34-87A9-979CBE9A958A:ID
+Name: Coalition: Cobra Odin|5C13101A-45E4-D568-AADE-D6B0DADEDCD1:ID
+Name: Lightwave Odin|57523CF0-4574-968B-9F17-168E3BDB6D0D:ID
+Name: Sensation Odin|65BAA0CD-42EC-F99D-54A0-338D795B5824:ID
+Name: Random Favorite Skin|9C134F41-4C29-1BD8-682E-178E7F349C9B:ID
+Name: Schema Odin|02CCE94A-4DC2-D11A-33CF-D8ABA4E36202:ID
+Name: Lycan's Bane Odin|468FDC95-443F-F1C2-BD22-FC8E1AF0DE39:ID
+Name: Reaver Odin|8DDA01A6-4237-F430-AC70-C3BA677963E9:ID
+Name: Standard Odin|F454EFD1-49CB-372F-7096-D394DF615308:ID
+Name: Aerosol Odin|BEFA2F32-410F-A418-D8D3-B194DCF2EC6D:ID
+Name: BlastX Odin|85ED3F9D-4E59-A709-8FAF-BC86EFFB3A07:ID
+Name: Ares|55D8A0F4-4274-CA67-FE2C-06AB45EFDF58:ID
+Name: VALORANT GO! Vol. 2 Ares|E9FCE399-4ABC-BB3C-8992-F887918CE327:ID
+Name: Aristocrat Ares|8B9855F2-4CC6-0C44-3E7C-D0B2A32C6950:ID
+Name: Endeavour Ares|BB004222-4ECD-E109-E875-069C820548FA:ID
+Name: Nebula Ares|AC65B631-4BD1-B0FA-3313-0DA74D4EBA9D:ID
+Name: Doodle Buds Ares|35BEB433-425E-7072-7AC3-9CA95D1D1FD9:ID
+Name: Singularity Ares|E901BDEB-405F-D06C-0733-6783274D85B0:ID
+Name: Rush Ares|4E04647A-4CFC-64F8-4643-F6B7DBCB2943:ID
+Name: Hivemind Ares|556646C0-46DD-6986-00DF-A78D1C17F268:ID
+Name: Spitfire Ares|04B1358C-4702-DD82-A135-368384B685DD:ID
+Name: Infantry Ares|E089BE41-4242-B28D-1894-BBBA193957A2:ID
+Name: Goldwing Ares|9D2B497B-434D-07FC-EA0F-EE96DE4BFFA1:ID
+Name: Outpost Ares|4308FE43-44C1-9FE8-D5F9-95BE2BC70D51:ID
+Name: Prism Ares|841C9AAB-4005-F7FD-3B67-24B335100FB4:ID
+Name: Monstrocity Ares|FF0A538F-4EE6-A3E7-F7A8-A0B5A76E027B:ID
+Name: Nunca Olvidados Ares|7AA16EB6-45EF-1446-FDAA-5F8FBBD04BEE:ID
+Name: Celestial Ares|D21E2975-4586-635C-3FE4-E6BE738243B3:ID
+Name: Magepunk Ares|0FAC1DCF-48D0-C6C4-675E-2A8013BC879C:ID
+Name: Minima Ares|CD8EB70D-443C-D9FD-48CD-98BACE9D5132:ID
+Name: Ion Ares|0F4B0478-4759-911D-C44B-2A907534789D:ID
+Name: Oni Ares|759BCA71-4764-19F8-8890-239EEDB78FA3:ID
+Name: 9 Lives Ares|4E459B3B-4DAB-934F-1D77-BDBE75B6FCCA:ID
+Name: POLYfrog Ares|FF555802-4633-0C8B-93F8-B8887666E3AD:ID
+Name: Divine Swine Ares|398EF7C2-4055-980E-A8B4-669CA8BC5084:ID
+Name: Jigsaw Ares|E4B7F196-4F05-825F-E795-A59FC829195D:ID
+Name: Premiere Collision Ares|165116BF-497A-3FFA-38DC-C58D4475E225:ID
+Name: Random Favorite Skin|ACCCAB4A-4093-8A4A-F1D3-299071D763D3:ID
+Name: Sentinels of Light Ares|9F3E2BA6-428F-C635-67E0-B8B7D9E3C2FC:ID
+Name: Sakura Ares|2666F98D-4F88-8CB9-4927-629D75A6A7AD:ID
+Name: Snowfall Ares|43538E40-48BF-0262-D4A7-BBBA3C56DF77:ID
+Name: Titanmail Ares|D29D764D-41CE-5A4D-0A96-7B8B91DA16FD:ID
+Name: Standard Ares|5305D9C4-4F46-FBF4-9E9A-DEA772C263B5:ID
+Name: Vandal|9C82E19D-4575-0200-1A81-3EACF00CF872:ID
+Name: Immortalized Vandal|D980C0C8-492B-B8DF-2D91-AF99A7707170:ID
+Name: RGX 11z Pro Vandal|E5490F71-455B-74AD-F762-F5A876D4DFF9:ID
+Name: Altitude Vandal|C97CD8A3-44EF-8425-5BF6-11BF72128606:ID
+Name: VALORANT GO! Vol. 2 Vandal|BA6F2526-4ED2-8E62-49AA-EBBB04290682:ID
+Name: Araxys Vandal|4C926AA9-4F26-BC80-C486-9B888333373F:ID
+Name: Neptune Vandal|DB91451C-4309-2C8C-EDED-BF842D844E52:ID
+Name: Aristocrat Vandal|6191BB0B-456F-1A3E-DF13-CDB0C1B8B1E4:ID
+Name: Gaia's Vengeance Vandal|000AD7B1-44B0-9345-EA47-9CBD7DCDBB38:ID
+Name: Endeavour Vandal|D3733BFE-48D7-B119-3195-249D3B46B528:ID
+Name: Champions 2021 Vandal|9BF19B77-4B33-7203-9F2C-16932970622F:ID
+Name: Origin Vandal|6C4315B8-4FF1-BAAA-5AAC-5790C7443353:ID
+Name: Starlit Odyssey Vandal|FFB65A92-4654-A7F8-1908-BF9BB18995A3:ID
+Name: Glitchpop Vandal|74789F33-4632-8052-96D7-258538721A32:ID
+Name: ChronoVoid Vandal|8E762A1F-4102-B7CE-D6A0-9690C5BFE160:ID
+Name: Prelude to Chaos Vandal|522A264E-4CA7-ADB0-6CF1-28B2EF938727:ID
+Name: Elderflame Vandal|18609205-4EDB-5966-CFF8-0FBA0230BA1E:ID
+Name: Sarmad Vandal|5B6B1EEE-4185-8F83-9374-3391D0F0F742:ID
+Name: Nitro Vandal|9B62FAF1-416C-B736-0EDB-39B890F1F18D:ID
+Name: Hivemind Vandal|F7F63B78-4B12-B21E-A0E7-6BAFBAD81509:ID
+Name: Venturi Vandal|5A658084-453F-E971-5DEF-2BB9CF6E5E90:ID
+Name: Forsaken Vandal|437307C6-424C-6A48-9738-949B91166353:ID
+Name: Team Ace Vandal|25980352-4407-60FF-EB27-058C1EA696CC:ID
+Name: Ruin Vandal|948D31A0-4C2A-9C82-2B89-FE9F2EC65036:ID
+Name: .EXE Vandal|6F3A2A08-4F32-DBDC-8DCA-628A5C840052:ID
+Name: .SYS Vandal|23D61DBB-457A-5590-2E91-38A67A52C332:ID
+Name: Horizon Vandal|9D71EDB0-453C-DEFA-507D-57AA2935B379:ID
+Name: Prime Vandal|B9EE2457-481C-6776-3F5B-0CA8E8F90C89:ID
+Name: Avalanche Vandal|41B55C92-4AEB-9C86-854A-4ABCD48EA0BA:ID
+Name: Black.Market Vandal|A810EC6B-46E7-767D-7186-2CBE49E7FE1B:ID
+Name: Prism II Vandal|A383091D-4C7A-EB6D-0F45-E78232EDE644:ID
+Name: K/TAC Vandal|11A93854-44F0-BD66-F434-3F81744DDD8D:ID
+Name: Monstrocity Vandal|B3A65992-469C-BAB8-736E-49BBDA91C650:ID
+Name: Nunca Olvidados Vandal|6460E252-48EF-8312-6F4F-2CB5F1B56972:ID
+Name: Luxe Vandal|30FD16AF-4560-B2E2-7780-EE8148A0946A:ID
+Name: Silvanus Vandal|D758ABC0-4D99-62D3-B22B-0DB0E57DE881:ID
+Name: Crimsonbeast Vandal|8B688DE6-42D3-9430-8F38-32B0B3D1C2C6:ID
+Name: Ion Vandal|596CE51D-40E3-DC21-B02D-B08D070A7883:ID
+Name: Oni Vandal|7156C2EE-41FC-F8F4-D457-EBB287965C08:ID
+Name: Cryostasis Vandal|F328ADD7-4710-AB8D-95BB-409BC8278A35:ID
+Name: Luna Vandal|04D8CC84-468A-B696-85AE-A193077838ED:ID
+Name: Sensation Vandal|72C1E90B-40CA-4304-02EB-28BB2AEA4ED2:ID
+Name: Random Favorite Skin|9C808029-48F5-CE89-21C5-88BF4228D2ED:ID
+Name: Sentinels of Light Vandal|E8DF3725-40DE-B8EC-77BD-62A989685A85:ID
+Name: Sakura Vandal|F946EF5C-46AB-E146-A712-1D99A1651356:ID
+Name: Schema Vandal|9A6C6DB7-4F56-12D6-8339-6386F12090E8:ID
+Name: Lycan's Bane Vandal|6B58163F-4426-8ABF-8F55-F79E3A2045DF:ID
+Name: Reaver Vandal|30388628-42F0-606C-82C0-73AD43DE997F:ID
+Name: Tethered Realms Vandal|F2B034E0-4B54-5ABC-25C8-D293B6F1D247:ID
+Name: Cavalier Vandal|1EB7639F-4E90-5B5B-9F53-A792103D6F29:ID
+Name: Titanmail Vandal|E8DC658B-4C7C-2338-FACD-7D8D2813560A:ID
+Name: Standard Vandal|27F21D97-4C4B-BD1C-1F08-31830AB0BE84:ID
+Name: Depths Vandal|F2871246-441C-5F41-3DAC-13947139ADEC:ID
+Name: Ego Vandal|8C22A4B2-4DA0-F2F2-9BD1-C89D106CD646:ID
+Name: Wasteland Vandal|32B87592-45AD-C5A6-44AE-A9B844137C58:ID
+Name: Winterwunderland Vandal|16716D68-4D36-320F-AAFD-F6A6BFA5ABE2:ID
+Name: Bulldog|AE3DE142-4D85-2547-DD26-4E90BED35CF7:ID
+Name: Araxys Bulldog|26D0C312-46C2-1912-302A-B7B8F62640CA:ID
+Name: Radiant Entertainment System Bulldog|E8BF5459-4789-F9BD-BFD1-C5BCAFEC96A6:ID
+Name: Aristocrat Bulldog|C610DBC8-4A90-3C86-7F9E-BFA910F75BB9:ID
+Name: Endeavour Bulldog|3F8BE578-4E47-8AFD-1E6C-CB9BB326E8B5:ID
+Name: Spectrum Bulldog|FBE04552-445F-F202-923E-6FBD61B7E2AA:ID
+Name: Striker Bulldog|9C056543-44AF-0D36-D0F7-1196D93D264E:ID
+Name: Rune Stone Bulldog|8594C025-4C96-E258-13DA-53A2F747BCA2:ID
+Name: Undercity Bulldog|4BE8D0E7-48E0-EAA3-1DB4-85A14094F369:ID
+Name: Glitchpop Bulldog|285C6731-4451-B930-7A3D-C5A736D00F5E:ID
+Name: Rush Bulldog|23399BEB-4828-0D03-AE24-AAA62B08F796:ID
+Name: Velocity Bulldog|706DCACC-432B-47E5-3CF7-2DB432A8AFE6:ID
+Name: Shimmer Bulldog|CC8AD3B2-4B0F-6E8D-EAE0-C98CC55D002F:ID
+Name: Horizon Bulldog|E931DCC8-48D4-F895-48B1-199EC573625B:ID
+Name: Black.Market Bulldog|1CBBDD73-4B22-4FAA-ACD0-0A9D6EA1963F:ID
+Name: Bound Bulldog|0F992024-4C40-2EAD-311A-79BC37E5E61B:ID
+Name: K/TAC Bulldog|F476843A-4FC1-32A1-5E32-C18B84003460:ID
+Name: Couture Bulldog|199B8536-488A-09E6-8592-FF9CF21B4CEB:ID
+Name: Nunca Olvidados Bulldog|9C91E507-4241-33D1-C63A-AEB9EC3D9D03:ID
+Name: Genesis Bulldog|90E750E8-4A42-F5FC-9160-3EA5E5522C6E:ID
+Name: Oni Bulldog|325D2274-487B-8672-84D6-6DB8E9798447:ID
+Name: Cryostasis Bulldog|D832F94C-4490-176E-C625-C3A1130CEA19:ID
+Name: Hue Shift Bulldog|C2F87E28-4C3B-5DC3-0109-FFA3A0E43F4C:ID
+Name: POLYfox Bulldog|DBF7B813-4931-3B45-DB2B-EA8D418B2B1D:ID
+Name: Protocol 781-A Bulldog|1DAEFBFF-4581-AEF3-5ED6-DA894D7E4CC7:ID
+Name: Premiere Collision Bulldog|FBF8CA06-41C9-6293-24CC-B6B292DB5CF7:ID
+Name: Random Favorite Skin|7BAA9F5A-4AC3-804A-2E47-4DA916DE0B79:ID
+Name: Infinity Bulldog|DECD0962-453A-1551-47E1-1287AAFB5A27:ID
+Name: Standard Bulldog|724A7F42-4315-ECCF-0E76-77BDD3EC2E09:ID
+Name: Tilde Bulldog|006D6B0A-47BA-A909-ADE5-0CBA66DD5829:ID
+Name: Gridcrash Bulldog|0C0CBD13-4601-E6C1-0180-2181E2461C36:ID
+Name: Convex Bulldog|F580899D-49C4-8BF8-9718-C9A6A38DD503:ID
+Name: Depths Bulldog|4E6341F9-4851-603D-DAFF-9185F007D3DC:ID
+Name: Varnish Bulldog|9BBA8D9A-461E-9783-FCB7-F1A92192FB3A:ID
+Name: Phantom|EE8E8D15-496B-07AC-E5F6-8FAE5D4C7B1A:ID
+Name: Task Force 809 Phantom|3D71065E-4F0B-19A8-26D5-129CDDEB013B:ID
+Name: RGX 11z Pro Phantom|499ACF05-4F79-E345-3714-57BF7AA163EA:ID
+Name: Xenohunter Phantom|FAC0CEA1-45A9-1549-C120-AF8F0150E562:ID
+Name: VALORANT GO! Vol. 1 Phantom|0ACBABBE-4F4C-F643-284B-F69029ABB54E:ID
+Name: Radiant Entertainment System Phantom|4EB45D71-4FA4-BE4F-7409-CF92123F1D22:ID
+Name: Spectrum Phantom|980FA063-436E-E51F-C38D-70A5B93A0F1C:ID
+Name: Piedra del Sol Phantom|D556B1C2-46FA-FCA4-0516-5C887FD2352A:ID
+Name: Champions 2022 Phantom|8C72AE0B-4357-1A75-AD62-FBAEC7B64F92:ID
+Name: Radiant Crisis 001 Phantom|2371D9E1-498C-1AD1-4F10-D1A339C7FDA2:ID
+Name: Nebula Phantom|57F91D68-4CDA-76C0-C258-7BA507CD6F87:ID
+Name: Undercity Phantom|ED3AC995-4FD1-3079-27AA-4AAB84447833:ID
+Name: Glitchpop Phantom|25A7F0F2-4BCE-7E45-B4B0-CA9264F5DFCC:ID
+Name: ChronoVoid Phantom|2AAC8BB3-4CFA-B806-21E4-5A8E9904CAA4:ID
+Name: Abyssal Phantom|2D1472FD-458C-515A-C4E4-CEAA50C84187:ID
+Name: Doodle Buds Phantom|3A091315-4E87-31D5-7CDB-27804A177FD2:ID
+Name: Singularity Phantom|5EEC4CE6-443D-E9B5-4C5B-2B967D426BD3:ID
+Name: Sarmad Phantom|CD07BA8F-4DAE-0410-582E-71ACDEF102CE:ID
+Name: Rush Phantom|8DB507B5-4D57-96E0-000E-2D8C8AF79550:ID
+Name: Velocity Phantom|A17D4EEB-46E5-A041-AE7B-A2841AC6B36E:ID
+Name: Team Ace Phantom|F7A779DB-4835-6561-CE1A-D1921A24DE46:ID
+Name: Topotek Phantom|D34EDAFC-4E48-B2D7-6163-08BF054D3D80:ID
+Name: Soulstrife Phantom|98C9BC4E-4FB3-206F-3F6B-06A17B53E95B:ID
+Name: Prime//2.0 Phantom|44B7B110-46BF-CCBB-2613-29A5DF296461:ID
+Name: Avalanche Phantom|C38DCED0-454D-D296-522E-6F8643DECD3B:ID
+Name: Bound Phantom|2F1DA068-4779-D711-85AE-90840F0E38FA:ID
+Name: Prism Phantom|6586A7DB-4041-6A29-F37C-D6817657CAA5:ID
+Name: Serenity Phantom|A903E567-480F-A3F9-ADB8-1DA714A2D63C:ID
+Name: Ruination Phantom|5B43D27B-419C-F2BC-53FE-D7829DAD46B3:ID
+Name: Kingdom Phantom|E13AFE1E-4734-2094-FEE8-9DB016E4D54A:ID
+Name: Kohaku & Matsuba Phantom|8F82CFF0-44B9-B792-8DD2-B2BE8538421B:ID
+Name: Smite Phantom|8D3EAD4A-4421-F1F2-4292-ECAC859FC135:ID
+Name: Celestial Phantom|8C0CC1E8-4C1B-20A0-122D-16B4334D1B80:ID
+Name: Spline Phantom|13F553A1-4124-7C29-05E9-E7932FDEABB6:ID
+Name: Minima Phantom|2E3538F1-450F-CFE6-F93E-73862CD39314:ID
+Name: Galleria Phantom|41892314-4A99-0048-1838-E38CD680EA26:ID
+Name: Silvanus Phantom|25824735-478D-30B7-8FC9-95B1999F9D3B:ID
+Name: Ion Phantom|E86BF7E4-4DD3-FBEE-533B-FA875344BBAF:ID
+Name: Oni Phantom|36791B03-452D-8DAD-0091-898CC28D2196:ID
+Name: 9 Lives Phantom|762ACA85-4BF4-73A5-932A-2AA8407C31B3:ID
+Name: Hue Shift Phantom|3A204DA4-4AA4-D02F-73A0-55867BC8D501:ID
+Name: Aero Phantom|56F075B7-4171-A977-90AC-D5AD786F1478:ID
+Name: Artisan Phantom|909DAEA4-49AB-7B99-46FB-AA8C9E6FD837:ID
+Name: Protocol 781-A Phantom|9877D50B-43B1-837A-802A-BF8A3B98E2DD:ID
+Name: Lightwave Phantom|29665396-4DC8-C409-5E38-228949690F1E:ID
+Name: Random Favorite Skin|FFF73AD4-4D46-A6D9-43F1-51B633845434:ID
+Name: Snowfall Phantom|A74F77FD-4E69-F16E-B1EB-CEB5198F423D:ID
+Name: Reaver Phantom|044B28BA-4C3B-D315-140D-D9A249DA5567:ID
+Name: Recon Phantom|D67B929F-4431-61C0-286E-3EBF3D11C4AF:ID
+Name: Infinity Phantom|1F835677-4ED7-FEC2-6B80-C3AC384323F6:ID
+Name: Reverie Phantom|FB86D3B7-45F2-6A97-C468-51AB29CB4A04:ID
+Name: Standard Phantom|337CB216-4A6E-D85D-88C2-F29AB317784C:ID
+Name: Tigris Phantom|E0CF9566-452C-1501-43B1-778E69C60DBF:ID
+Name: BlastX Phantom|59AF9C5D-43EE-1360-F3A7-A9A6FF6E478B:ID
+Name: Winterwunderland Phantom|A5C64455-4FD0-9207-FC97-E086AF99A2A6:ID
+Name: Judge|EC845BF4-4F79-DDDA-A3DA-0DB3774B2794:ID
+Name: Piedra del Sol Judge|D7717613-4EF6-B314-6A95-9E8A1EE603BF:ID
+Name: Undercity Judge|E413125E-40C6-CCCD-DE35-F28E34C57442:ID
+Name: Glitchpop Judge|28A659A4-439E-FCD0-6236-D39979EE5C51:ID
+Name: ChronoVoid Judge|4D2EC3F4-446E-A501-74D8-5AB750F50984:ID
+Name: Elderflame Judge|0221B120-444B-6D1B-FC50-E4A98E470EB2:ID
+Name: Rush Judge|F6DB3976-4C70-C3BF-01F8-DCA6D335319A:ID
+Name: Team Ace Judge|FDF7FEF7-43DB-9409-BE4C-44BC0B5084F6:ID
+Name: Shimmer Judge|CE38C32D-43E6-E840-3981-668454383E22:ID
+Name: .EXE Judge|FBD23FDF-4D7B-8A50-AFA5-C3AD6E7266E5:ID
+Name: Goldwing Judge|37735CF0-4C4F-6EFD-6222-8582622D68A0:ID
+Name: Hydrodip Judge|3D8F9C7D-4259-4710-1F94-0FBC4F25035C:ID
+Name: Outpost Judge|400D71B1-4090-6ABF-224E-21938569FE24:ID
+Name: Bound Judge|1C7E4522-49F7-4125-A7CA-1F8C943C804E:ID
+Name: Prism III Judge|1FC3F066-4211-D65A-42AB-B287C6BB2448:ID
+Name: Serenity Judge|3A1C857A-4671-0667-8EFE-EE90B8BA1E5A:ID
+Name: Kohaku & Matsuba Judge|DA3CEDEA-4F2E-C501-EC79-438433FFABDF:ID
+Name: Smite Judge|5324BC65-44AA-1A16-EDE4-0E9B56F35D0E:ID
+Name: Iridian Thorn Judge|0CBA5A5F-41AB-ED7D-158E-4FB92AB25C47:ID
+Name: Celestial Judge|57AD1E5D-4289-4DE0-7926-899CEF10DB37:ID
+Name: Luxe Judge|5237CFCA-4D83-6190-A7F9-D2BDC117EA67:ID
+Name: Coalition: Cobra Judge|0B8816A2-42AD-9353-C591-F7863981D7FE:ID
+Name: Crimsonbeast Judge|5E342C5C-4757-4C4E-CA7C-A4B97930308B:ID
+Name: POLYfox Judge|5D217DD0-4F2C-CFCA-274E-3F8F9D518B13:ID
+Name: Divine Swine Judge|A913D712-4C29-D7F4-0F8A-D790E023BA3C:ID
+Name: Jigsaw Judge|BA93A991-407F-0C47-2D26-72A4196B4164:ID
+Name: Sensation Judge|8E27A0B3-4DC9-E2A7-E33A-29A616EFC244:ID
+Name: Random Favorite Skin|68F2E92E-4C94-8104-ED99-03925BBC71E8:ID
+Name: Snowfall Judge|A07941D7-42DC-5083-97A1-AF850CA6FA26:ID
+Name: Standard Judge|ACD26127-48FF-8B9E-7BA6-B989AF8A4B24:ID
+Name: Tilde Judge|91CEA710-495B-FD95-9E7A-6C928A0C5449:ID
+Name: Gridcrash Judge|4B77BE03-4410-1AC5-0B9E-82B326CD990F:ID
+Name: Convex Judge|03751FA0-46DB-0DF3-B8CB-99ADF373ECDA:ID
+Name: Varnish Judge|87591A69-47C1-A052-BA85-33A8097A0B07:ID
+Name: Bucky|910BE174-449B-C412-AB22-D0873436B21B:ID
+Name: Altitude Bucky|613152C2-47CF-BE72-9B45-B6958117B220:ID
+Name: Xenohunter Bucky|0666931C-4580-EFD0-AF47-AFB9F2F72E55:ID
+Name: Piedra del Sol Bucky|001E4CE2-4B30-8203-365A-828E2E3A5826:ID
+Name: Origin Bucky|96495EB3-40DB-CB5B-1C69-17A3DDE58EE3:ID
+Name: Radiant Crisis 001 Bucky|31072CDA-4041-B4F0-119A-3692EA598321:ID
+Name: Red Alert Bucky|1322A9A8-49AD-BC3A-2319-FB866E21334C:ID
+Name: Surge Bucky|AA6162A5-4C73-1C6F-5C69-9B9082E321FD:ID
+Name: Topotek Bucky|4A1D582D-4C3B-6595-57B6-E3B2CF0EE543:ID
+Name: .SYS Bucky|82204CF0-4A3D-2802-6EB9-9EAC53472A3F:ID
+Name: Horizon Bucky|D493BEC2-4E3F-19CD-8363-B1921489413C:ID
+Name: Monarch Bucky|8F26C1E0-46B7-72D2-8307-11B03F3332F2:ID
+Name: Hydrodip Bucky|50B0DB3D-46A9-5C2F-2E57-7FBEEDF30362:ID
+Name: Prime//2.0 Bucky|89EEBDB1-4DF6-0A1D-8988-F495CCA4BADB:ID
+Name: Prism II Bucky|A6B07D50-4731-2775-042E-A896CB51BF13:ID
+Name: Kingdom Bucky|75E55415-45CE-B48B-B471-84BEF2368E33:ID
+Name: Iridian Thorn Bucky|D95FE9CC-4B39-6F54-1912-D796B5912481:ID
+Name: Magepunk Bucky|5AC14AEF-41CC-A0C8-895F-E1A69B33AEFF:ID
+Name: Galleria Bucky|2A0700DC-4181-AE19-2B49-818B24DCEACB:ID
+Name: Genesis Bucky|DAF3C0D8-4C6F-23C0-20CC-96B0386B548F:ID
+Name: Ion Bucky|31F6F214-4379-749A-9285-04A5561E2D03:ID
+Name: Oni Bucky|7DA96A2A-43CE-91C2-28F9-0C95529D133E:ID
+Name: Artisan Bucky|1A97F146-4FCF-5A04-140E-4390FEAFAA73:ID
+Name: Lightwave Bucky|26582DC8-43DD-15B6-A31C-739B90302BEA:ID
+Name: Random Favorite Skin|ED407BC7-4949-3131-B84F-D6BE83B63A15:ID
+Name: Gravitational Uranium Neuroblaster Bucky|0DC9A874-41C5-E582-9A36-37946043346C:ID
+Name: Cavalier Bucky|E6EEFED6-4D10-5794-4859-6D9AB5FF1D66:ID
+Name: Titanmail Bucky|1ECB1ABC-41A4-F789-39A5-4583F043D688:ID
+Name: Standard Bucky|70C97FB2-4D79-D4BB-5173-A1888CD4BFD9:ID
+Name: Aerosol Bucky|CF2CC18C-42EC-3FB0-4CA7-3583373A33AB:ID
+Name: Frenzy|44D4E95C-4157-0037-81B2-17841BF2E8E3:ID
+Name: Task Force 809 Frenzy|1BD0B030-49B3-4733-D6F0-28BCB7ED6DF2:ID
+Name: RGX 11z Pro Frenzy|D5EA8AE9-4055-9B65-1F39-ED97372D887A:ID
+Name: Xenohunter Frenzy|A4B0CD8B-40DC-41E3-646D-D58802B2E310:ID
+Name: RagnaRocker Frenzy|7D05D1CE-4BF2-FA96-D8F4-DCA86052E3D2:ID
+Name: Origin Frenzy|CCEB25D7-41E7-1944-515F-2EB5695FD5CC:ID
+Name: Glitchpop Frenzy|5596D764-4B62-210B-59DB-7982E9D4C23F:ID
+Name: Elderflame Frenzy|4FB9EA7D-45A6-9154-7A46-648781B081C4:ID
+Name: Sarmad Frenzy|3FD33106-4816-C257-D27F-2B86C5D76C66:ID
+Name: Rush Frenzy|A010C5FC-4343-067D-4DFB-EE836EC0A45F:ID
+Name: Venturi Frenzy|5C0965BC-4860-94A3-A133-B29B08F75051:ID
+Name: Team Ace Frenzy|5947209B-4864-FB3B-BC48-74A7924E4412:ID
+Name: Swooping Frenzy|D6AF3716-4AB5-8204-A2F4-1EB4FFC51088:ID
+Name: Horizon Frenzy|17162B11-45FC-5B66-2E49-79AC9D60032C:ID
+Name: Monarch Frenzy|B543F6C4-4404-4E5E-1FCF-67A0CD8E9BC4:ID
+Name: Hydrodip Frenzy|8256EB2C-4368-9DA8-521F-379C3793DCE1:ID
+Name: Prime//2.0 Frenzy|51446541-47DD-B661-470E-9D89B3B6A33B:ID
+Name: Couture Frenzy|08BFB08F-48CC-2699-2F5C-AABEC43DD43A:ID
+Name: Nunca Olvidados Frenzy|A878B90B-4D32-6E85-D49E-82BFBA69471F:ID
+Name: Celestial Frenzy|307DBBC2-442D-B92B-0AF2-278A8505672A:ID
+Name: Coalition: Cobra Frenzy|BB46D680-4E05-BACD-6ECD-11895D2F22E7:ID
+Name: Moondash Frenzy|87643553-437B-D057-8F06-25B5BD723378:ID
+Name: Ion Frenzy|906DCDA9-477A-6D09-F85D-599CCB86E168:ID
+Name: Oni Frenzy|7A20502F-45B2-6781-B408-08BC86C5E5E2:ID
+Name: Spitfire Frenzy|5BB5ACB1-44DD-184B-484E-319188EF78EB:ID
+Name: Aero Frenzy|12E6F520-460B-E69B-0617-BAB9FFF1A134:ID
+Name: Divine Swine Frenzy|FA0BB312-4446-A061-9B06-EE88314E07FA:ID
+Name: Lightwave Frenzy|F67D4D78-4567-F8CA-010B-18919C49AA05:ID
+Name: Sensation Frenzy|531135CC-48CB-68BF-8C99-149E46670C80:ID
+Name: Random Favorite Skin|7B82C605-44BB-AAE9-55BF-A4AFEF323553:ID
+Name: Titanmail Frenzy|324C837D-4E55-A259-0852-92BC27E724DA:ID
+Name: Live Wire Frenzy|F7FC6F86-4599-E131-E392-D6B2DFABD8CB:ID
+Name: Standard Frenzy|F06657F3-48B6-6314-7235-A9A2749DF5B9:ID
+Name: BlastX Frenzy|79005812-4D5C-CC6D-E2BD-19BC86C29349:ID
+Name: Classic|29A0CFAB-485B-F5D5-779A-B59F85E204A8:ID
+Name: RGX 11z Pro Classic|111680FD-4562-F658-AF1C-ED8F9CFE9F9C:ID
+Name: VALORANT GO! Vol. 2 Classic|B06E13FF-4F19-C750-FFCD-8084DFC3BBF5:ID
+Name: Spectrum Classic|46F32F75-4FC8-7121-8A77-DB8DB43AFC67:ID
+Name: Pistolinha Classic|34919680-4F00-554B-0C2B-95ACCA7D0D36:ID
+Name: Striker Classic|6F6B606F-4D9C-C071-B817-9EA59D5B02D3:ID
+Name: Radiant Crisis 001 Classic|A95D08BE-4E56-1189-801B-D9AA4EFE32FA:ID
+Name: Red Alert Classic|41FCE834-4C76-A0F4-2CF8-CCA3AE879EAB:ID
+Name: Undercity Classic|AC14DCA7-408B-7E8F-8ED0-99B8ED1FFE98:ID
+Name: Glitchpop Classic|8B2598EB-4DB9-6338-4A25-C780402C780E:ID
+Name: Finesse Classic|3AF7FEF0-48CD-64D3-CEAD-DCB9CD07865A:ID
+Name: Surge Classic|6CC70EAE-4297-91D5-ADB9-EFA48004DA77:ID
+Name: Songsteel Classic|10354287-40E9-4087-85C5-AEA7289D31F2:ID
+Name: Forsaken Classic|C612138E-4007-6D0C-64AD-3690C65EE4A7:ID
+Name: Shimmer Classic|9A6D4520-48A6-D46C-5A3F-2AB0B10DD8F6:ID
+Name: FIRE/arm Classic|144AC55D-42B9-338C-FB32-C9A31F4DA5BB:ID
+Name: Goldwing Classic|1180C78D-4B0D-491E-EFDC-CFA5D948FA27:ID
+Name: Prime Classic|D653F4A7-4E92-2559-0A97-2C9D46D009B3:ID
+Name: Avalanche Classic|6B6A219D-490A-45F1-1E5C-40BBF3DF5F28:ID
+Name: Black.Market Classic|A6B46CEF-4ED2-79E4-D49A-459180CDBD23:ID
+Name: Bound Classic|94BC4D7A-4B88-4C84-EFEF-969CDF84019E:ID
+Name: Prism III Classic|62ABF8B2-4511-131D-42C9-81A5EFD1B901:ID
+Name: Kingdom Classic|E72D72AB-4284-1469-B544-478A811A29A6:ID
+Name: Kohaku & Matsuba Classic|BE7CF362-4993-B9E4-9BA9-CDAC6C99B8E4:ID
+Name: Smite Classic|22FDC42D-4AD6-2BEC-8033-8A8BDF178826:ID
+Name: Spline Classic|750D4F04-4FEA-391B-FA8B-539815A63164:ID
+Name: Galleria Classic|2F9F4637-4377-B55F-97A1-1E8974E29B27:ID
+Name: Cryostasis Classic|EDB386A1-4D02-4FD0-2F84-F8BF6434E5C4:ID
+Name: 9 Lives Classic|F3F962BD-4A19-B363-E939-6A91B897A28C:ID
+Name: Premiere Collision Classic|C4C0EDC9-4CE3-3945-81F5-1BB80AEB22FE:ID
+Name: Random Favorite Skin|3E3AD47A-4383-73F1-4D92-1693059DAE8F:ID
+Name: Gravitational Uranium Neuroblaster Classic|81DDBFCD-4081-8341-FF76-AD8CDB26CE4C:ID
+Name: Sakura Classic|6BA7A7A0-4057-4D5C-7C98-579F232DB298:ID
+Name: Snowfall Classic|464887BE-4A07-690E-2D02-E187C8BBE8D5:ID
+Name: Infinity Classic|706F4A29-4A95-7370-C983-1A8B167E38B7:ID
+Name: Reverie Classic|8BC021A4-4832-300E-2844-AFA3D1D9465F:ID
+Name: Standard Classic|24AEE897-4CDC-B0FD-E596-1BA90FA6D1B2:ID
+Name: Final Chamber Classic|47D5E54A-48E5-B62A-5CF5-3CB7EFC12E90:ID
+Name: Ghost|1BAA85B4-4C70-1284-64BB-6481DFC3BB4E:ID
+Name: VALORANT GO! Vol. 1 Ghost|3714831B-4B90-BB6B-4185-7FB05BA9B9A2:ID
+Name: Radiant Entertainment System Ghost|9AD4308F-4FFB-03A8-25C3-7A80B60579DE:ID
+Name: Gaia's Vengeance Ghost|DAED0E44-4AB6-22B4-A5A5-57A4957A056B:ID
+Name: Endeavour Ghost|CD281DCD-4276-1DEF-11D9-74A4A72DB204:ID
+Name: Piedra del Sol Ghost|9DB45D13-4CC3-4B6C-4801-459B79F8CDA5:ID
+Name: Starlit Odyssey Ghost|DF65F29B-465C-827A-7C34-15BE149B883E:ID
+Name: Topotek Ghost|E223E993-45F5-013B-4259-11B263184752:ID
+Name: Spitfire Ghost|D2ED8432-44A2-FB53-CD5F-089251862942:ID
+Name: .EXE Ghost|67D3E2F7-4B73-7598-0027-63BD9E2E5FCC:ID
+Name: Hush Ghost|A1D3A9E2-4F61-B1F7-3A01-CF867264D1CB:ID
+Name: Soulstrife Ghost|2FCDB6C8-4183-0079-13FE-2CB51DA0B87C:ID
+Name: Infantry Ghost|65CE6A98-4867-B695-279F-819C44EC6F95:ID
+Name: Goldwing Ghost|44BE88B3-4A0E-64C8-950D-66A969E71F7E:ID
+Name: Outpost Ghost|377EA8AC-46BF-52DA-3173-109C2950DC9D:ID
+Name: Prism Ghost|8163DB1A-4E3C-8F11-92FD-BC9E26253593:ID
+Name: Serenity Ghost|D8314B6C-45FC-FBDA-A797-569A24C11BB9:ID
+Name: Ruination Ghost|8A513C24-4C4D-AC15-6066-A1B2FF577041:ID
+Name: Luxe Ghost|CB98B0D6-4E26-973C-C10D-A38637D04B65:ID
+Name: Magepunk Ghost|33824A13-453B-0636-4EC4-E19708AA934E:ID
+Name: Artisan Ghost|8DFEC665-4836-D498-2896-08A16C092133:ID
+Name: Jigsaw Ghost|F20BDD80-4CBF-67A8-106E-72BBF94336AA:ID
+Name: Luna Ghost|4AB1D112-4AE0-4841-11F8-B198CB847862:ID
+Name: Random Favorite Skin|B4903002-4687-1953-847A-E0B09A2B2726:ID
+Name: Eclipse Ghost|4725C2C4-45B7-D9AB-FF4F-A79C3B2DD9EC:ID
+Name: Lycan's Bane Ghost|1A9AFD32-46FC-43C1-AB92-0A95E912805B:ID
+Name: Reaver Ghost|C7261BE6-47D2-EF86-82F4-6A844E45D33C:ID
+Name: Tethered Realms Ghost|EFBD92F3-4ABC-B077-76FD-DC805B3D72A0:ID
+Name: Sovereign Ghost|A9890917-41EA-EB55-47E7-EE990A87FA4E:ID
+Name: Recon Ghost|BB28991F-4CA9-CA54-962D-31B68C838625:ID
+Name: Cavalier Ghost|153B2B33-4E6C-FB98-42DD-5A9819649DC7:ID
+Name: Standard Ghost|1C63B43B-43C4-04E4-01C9-7AA1BFFA5AC1:ID
+Name: Gridcrash Ghost|FBBA3F7E-402A-92F3-B3D6-A69D653E5204:ID
+Name: Depths Ghost|69ADDB00-4EB5-EEBB-C4C5-2296549CBA6F:ID
+Name: Ego Ghost|B84DF096-4096-E9C4-0869-8E83E7FC5476:ID
+Name: Vendetta Ghost|0A6EDCF0-4A64-0ED5-1B10-0E96C2EB4CB4:ID
+Name: Winterwunderland Ghost|845A6945-414C-C916-6041-E4A3EF1108CD:ID
+Name: Soul Silencer Ghost|E24330EF-4315-512C-4588-95A601995888:ID
+Name: Sheriff|E336C6B8-418D-9340-D77F-7A9E4CFE0702:ID
+Name: Wayfarer Sheriff|34F735C0-4FCD-B4FD-FB34-FBAB97B42A41:ID
+Name: Immortalized Sheriff|304E1A7A-411D-2D27-DAD6-C09702B5EA2F:ID
+Name: Altitude Sheriff|1946D021-4C01-2CC7-D29E-4EB9E90279CD:ID
+Name: Aristocrat Sheriff|840F12D8-467B-1A5E-F79C-B893B72B2FBC:ID
+Name: Nebula Sheriff|55EF0FFA-44FE-03AC-DCF0-1982DF0857AA:ID
+Name: ChronoVoid Sheriff|E1FDD246-4A6C-AF26-F0A0-65A48F2586DA:ID
+Name: Abyssal Sheriff|79A78823-41DD-A2E8-7586-12BC8154D2D9:ID
+Name: Singularity Sheriff|BFD9E773-4376-1F6A-98F2-DC93F0C0607C:ID
+Name: Surge Sheriff|2674C385-4397-0383-04DF-988D8D6FD2C8:ID
+Name: .SYS Sheriff|3850EA5A-4E51-D913-7A44-48B2589E06B9:ID
+Name: Protektor Sheriff|4F1FDE01-4130-0AE7-1320-6FB2F2FB6AB9:ID
+Name: Prism II Sheriff|3194B53A-40A9-A419-A8A6-43B1A53CD0E9:ID
+Name: K/TAC Sheriff|95EB82E2-4859-5564-7B3B-DDBF2FB8088D:ID
+Name: Monstrocity Sheriff|F8DFD0AD-496B-2B31-FFF8-DEA9DE2F04C0:ID
+Name: Iridian Thorn Sheriff|6B57A839-4F3E-8DF9-4B05-0DB2C9FA1FAE:ID
+Name: Magepunk Sheriff|6460EDBF-458D-BF61-7519-519305BA5DA2:ID
+Name: Signature Sheriff|CB89C7BB-445E-DFEC-AD4A-B0BA37271329:ID
+Name: Minima Sheriff|46FFE3EA-4FB5-7773-6242-F5B57BF53EF8:ID
+Name: Silvanus Sheriff|721AB58C-4BA2-B7AE-C571-0993D9799FC5:ID
+Name: Crimsonbeast Sheriff|97A3CDC4-4F3A-ED26-02D6-6DBF6C1380D0:ID
+Name: Ion Sheriff|83778C03-45A3-67A2-3C89-6B8598327D58:ID
+Name: POLYfox Sheriff|54337477-4AEC-4A68-4673-7C8731639D30:ID
+Name: POLYfrog Sheriff|91D95358-4A3E-3ABC-A251-98826225F18D:ID
+Name: Protocol 781-A Sheriff|84589DA8-4E2B-11BF-CA52-B88E6B7E1DBD:ID
+Name: Lightwave Sheriff|A5057A74-4A6A-561C-6974-D19A2B939599:ID
+Name: Random Favorite Skin|D26CE959-4ED2-7105-8F33-DEA48E26DE4A:ID
+Name: Sentinels of Light Sheriff|2BA3DED8-47D5-58E3-1307-39800214636D:ID
+Name: Sakura Sheriff|19B997BB-461A-FA85-250D-A8B0B8908FEA:ID
+Name: Peacekeeper Sheriff|26FF0E3E-469A-CBDD-F79F-A3B89556CDEF:ID
+Name: Schema Sheriff|0568CD14-42CA-DB85-3AC2-C485079BBBF1:ID
+Name: Reaver Sheriff|A40A6CE2-462C-C864-5D30-7B9408B98D3D:ID
+Name: Standard Sheriff|1EF6BA68-4DBE-30C7-6BC8-93A6C6F13F04:ID
+Name: Convex Sheriff|E8FD8FC3-40CE-3ED1-235A-1C8D9654874F:ID
+Name: Varnish Sheriff|42EACEAC-46B2-EEC0-2CCA-10937761FE9E:ID
+Name: Wasteland Sheriff|9913DA36-48B4-F0F5-DB4E-43847A21E476:ID
+Name: Game Over Sheriff|121BC438-4748-B2EE-2C58-768C8C26838B:ID
+Name: Arcane Sheriff|84D840C5-4479-4395-D823-E7ACBE634C5E:ID
+Name: Death Wish Sheriff|BB0D20C6-415D-CF24-E738-0F99DB6F9195:ID
+Name: Shorty|42DA8CCC-40D5-AFFC-BEEC-15AA47B42EDA:ID
+Name: Sidekick Shorty|B454BB93-4DD5-5A7C-6720-38AFD82BFD78:ID
+Name: Araxys Shorty|4E98F273-472C-3376-7195-46A1F81402CC:ID
+Name: Neptune Shorty|646E713F-4999-6C56-094C-DD9114BDB35A:ID
+Name: Karabasan Shorty|0581FB92-4B2D-0EDE-6BFC-8D93FDE11F74:ID
+Name: Rune Stone Shorty|ACEDB6DB-407B-5D62-9C27-07BBB2313FE3:ID
+Name: Prelude to Chaos Shorty|C9572061-4EE1-FF7D-B60C-EBAC198D3706:ID
+Name: Doodle Buds Shorty|9A37B09B-4768-B368-52EF-58AC62564637:ID
+Name: Hivemind Shorty|3A921C7B-4E8F-8543-BEE8-01BA6DA86874:ID
+Name: Velocity Shorty|15588213-4D09-344B-C7E1-28AF37374C82:ID
+Name: Ruin Shorty|1064FBD1-416C-BF00-0E30-A282A359847F:ID
+Name: Monarch Shorty|7A3A9E66-4AC1-DF74-193B-1984303F4F71:ID
+Name: Prism II Shorty|039207FD-4911-9D6B-B7BA-E3ADE36EF77E:ID
+Name: Wunderkind Shorty|310B80D8-4E1B-B4F0-B713-9DAD458CE734:ID
+Name: Genesis Shorty|FCB18A37-4A0D-ECD3-EE2C-C38496ED5AE2:ID
+Name: Oni Shorty|B36DAD11-4105-6C08-0486-17BA96D0F2A4:ID
+Name: Snakebite Shorty|9428E52D-4611-C8FF-1B63-7B8E386FE8CB:ID
+Name: Hue Shift Shorty|DF0E23FE-4529-A9D5-C4C6-EAAE086BDA65:ID
+Name: Random Favorite Skin|075E4CF0-469B-25DC-8D6F-2995FBB093DE:ID
+Name: Standard Shorty|48AD078A-4DAE-2B85-A945-F4B6D1EFECBB:ID
+Name: Aerosol Shorty|A39BD1BB-4B17-4D57-C505-7EB15CAFFA4D:ID
+Name: Tilde Shorty|AE2EA89B-495E-2902-F67F-3490C1A03754:ID
+Name: Tigris Shorty|7B51FC8A-4A5C-712E-C663-E6A7EEB61D91:ID
+Name: Wayfinder Shorty|E917273F-42D1-3A8D-7C9E-54AFD6E5E68D:ID
+Name: Wasteland Shorty|30635237-4877-4EA4-5AC4-239474D3A662:ID
+Name: Operator|A03B24D3-4319-996D-0F8C-94BBFBA1DFC7:ID
+Name: RGX 11z Pro Operator|2E1936ED-4582-628F-DA9C-25A7F47323CC:ID
+Name: VALORANT GO! Vol. 2 Operator|4A1E0934-46AE-FA2A-A009-05ADE5D43402:ID
+Name: Araxys Operator|6DB556E4-4255-6C2C-6A80-8A9DFAC96AA9:ID
+Name: Radiant Entertainment System Operator|507330D3-4311-E010-183B-ABA00A0705F1:ID
+Name: Endeavour Operator|BDF1484C-44A7-2EF1-3D21-45B66FF8A89F:ID
+Name: Origin Operator|17831113-4FF0-A6C9-0B20-6F9C077D74A2:ID
+Name: Striker Operator|90BA4949-4A6A-CC54-EFB2-3DBDBE1BF69C:ID
+Name: Red Alert Operator|33AAA643-4BC4-4C5F-2762-228C7FC03949:ID
+Name: Glitchpop Operator|A491B943-43E3-4E98-64A6-FC87FCA43605:ID
+Name: Prelude to Chaos Operator|B450A73D-431E-56B7-5B7F-67BDDD38EE66:ID
+Name: Elderflame Operator|D722313D-43CB-B38D-7841-75880A3ED2CB:ID
+Name: Nitro Operator|44064B11-4E74-19C9-80A4-9F80875ADAF5:ID
+Name: Forsaken Operator|C692E38E-4F38-0141-D0C9-AA99FAB9362A:ID
+Name: Team Ace Operator|279A54F8-4344-CD72-1D5B-15AA0E86A630:ID
+Name: Spitfire Operator|93CCAF1F-4E44-0BC7-9EC4-EBAB43F73D10:ID
+Name: Infantry Operator|341EF273-43FB-7911-71E8-50ADADA4CEE1:ID
+Name: Prism Operator|5CED2C69-442E-D1AD-83FE-8FB8B2AC0C0F:ID
+Name: K/TAC Operator|9FFD45C4-4FA4-DCA0-F46F-2D99AD1EAE20:ID
+Name: Kohaku & Matsuba Operator|403CCE8C-4484-A796-A6F6-A0A07D9832E0:ID
+Name: Iridian Thorn Operator|CB07878F-484F-50DD-AB6B-5380640B13C5:ID
+Name: Luxe Operator|0BD5DA19-491F-DD4A-27E2-C9959B10A87A:ID
+Name: Magepunk Operator|7E831918-4580-5E2A-089A-84AD58FE1AAE:ID
+Name: Spline Operator|B2164926-4B85-852A-4BD7-D9BC27A642DA:ID
+Name: Minima Operator|A0A446F1-443D-3DC8-49C7-F2A70849F092:ID
+Name: Silvanus Operator|83B49F36-4085-8179-6896-1A99F2D2D1D8:ID
+Name: Genesis Operator|DE8D2FF4-49E0-C0A9-D29B-2DA688220A01:ID
+Name: Ion Operator|BBF8FFB9-49C0-75C0-CC7D-8F8F03A4BD36:ID
+Name: Cryostasis Operator|B2783916-483A-9112-89C6-64B8D927B78C:ID
+Name: Random Favorite Skin|ACDD29AA-44B5-0D78-DC54-8F92ED555559:ID
+Name: Gravitational Uranium Neuroblaster Operator|C21E2F34-4B8C-4350-33C8-A8B626ECAADC:ID
+Name: Sentinels of Light Operator|B05C4C98-4108-E442-ADD7-DA99A95A37B6:ID
+Name: Reaver Operator|AECAB890-43B7-D719-06BC-9295E3D116DC:ID
+Name: Tethered Realms Operator|E7BA6CEC-495F-E08E-F8EB-6E90228BDF9E:ID
+Name: Cavalier Operator|D47F9576-426F-4DA3-761D-39967489550C:ID
+Name: Standard Operator|D1F2920F-469A-3431-AD96-96AFBD0017F2:ID
+Name: Aerosol Operator|5F260F34-4021-AB2C-8080-6287C4F9974B:ID
+Name: Tilde Operator|44175B4F-4503-4CE4-25FC-32A995D872C1:ID
+Name: Tigris Operator|B53A990D-45C2-6212-A98F-B0AA5D6E6C23:ID
+Name: Convex Operator|CCB54094-4DB8-2C9F-656B-F1BFF329F469:ID
+Name: Guardian|4ADE7FAA-4CF1-8376-95EF-39884480959B:ID
+Name: Immortalized Guardian|6558FD5D-4DC7-90F7-BEEA-BA9303551C3B:ID
+Name: RGX 11z Pro Guardian|DA29CE1E-43BB-C043-9CBC-34850517DC23:ID
+Name: VALORANT GO! Vol. 1 Guardian|2C32D9E3-42A1-7387-35EF-0C8EEFACEE1C:ID
+Name: Neptune Guardian|1082032A-4F20-12DB-93EA-549332F91DDF:ID
+Name: Gaia's Vengeance Guardian|ABD5415F-4851-244F-4B8B-31AF8E268822:ID
+Name: Spectrum Guardian|04CCFE05-497C-2D52-2BD0-64A68955175E:ID
+Name: Starlit Odyssey Guardian|16DBA725-4DE2-8412-C07F-AF95C65DB9A2:ID
+Name: Nebula Guardian|6141A40D-48CF-8466-6D46-558C0FF145EA:ID
+Name: Abyssal Guardian|97BC040F-44BB-CBB3-C9F4-3AA16D1C0655:ID
+Name: Nitro Guardian|00E6B758-448E-AF3B-7DEE-879AA4A51324:ID
+Name: Songsteel Guardian|2D5E6025-4166-730E-1024-ABB766D19568:ID
+Name: Spitfire Guardian|3AB36C94-4C91-D722-6F10-11BBBE382159:ID
+Name: Ruin Guardian|453A734B-4F14-9183-2BE8-97B01F603368:ID
+Name: Soulstrife Guardian|7422B876-443E-B975-FAAB-0EBF73DBC075:ID
+Name: Infantry Guardian|ACD76D4D-4D05-2597-D63B-12851B2B61EE:ID
+Name: Hydrodip Guardian|06854A71-4EAC-CB4C-CDBE-BBBDDA492E9C:ID
+Name: Prime Guardian|2A049F35-4BCD-AF25-21FD-EC942E2D5007:ID
+Name: Ruination Guardian|8966067D-4023-C88A-DB56-2691F163D335:ID
+Name: Magepunk Guardian|80DBFA46-4A1F-C7A4-2E88-1499308C7B9A:ID
+Name: Signature Guardian|26E675C5-46CC-65FB-7BE2-DB8A64DBDE48:ID
+Name: Galleria Guardian|F097983D-4C5A-C7ED-C325-039C99BB824E:ID
+Name: Moondash Guardian|B7931D66-4CA3-D67C-C130-6692C55AE26C:ID
+Name: Oni Guardian|850FEA42-419F-F284-84AE-40AE1EABBB5B:ID
+Name: 9 Lives Guardian|1A38D03C-4114-6908-37DD-38A85D91CB2D:ID
+Name: Aero Guardian|93309EF5-4F43-411A-5759-C794EB584C7C:ID
+Name: POLYfox Guardian|96679876-4D41-683C-2E5C-2EA25DDD8FDF:ID
+Name: Jigsaw Guardian|23A16911-4CB1-2794-2D4C-3F99F1E2516B:ID
+Name: Random Favorite Skin|874025D8-4293-A38A-96AC-3D94954FB4B7:ID
+Name: Reaver Guardian|DB348DA1-49F2-0BAD-B70A-E4ADE9D31655:ID
+Name: Tethered Realms Guardian|77187A8F-4020-DA44-A775-7A91AB814CDF:ID
+Name: Sovereign Guardian|7122D78B-4E60-EB4D-5F65-738D7C1CE9AE:ID
+Name: Recon Guardian|539E07EC-49B2-5F22-0D05-91B809229D64:ID
+Name: Infinity Guardian|CCE860FD-4F64-7422-5C95-C7AD2CAD0F15:ID
+Name: Reverie Guardian|5D23DDA7-405A-E903-4681-1A825146F028:ID
+Name: Standard Guardian|3BF1E8E0-47E8-F27A-6054-929575F41A54:ID
+Name: Ego Guardian|0A81818D-406E-1D8C-CE4D-9BA89DFDF1AB:ID
+Name: Marshal|C4883E50-4494-202C-3EC3-6B8A9284F00B:ID
+Name: Task Force 809 Marshal|774DEE9A-4809-0E4D-4153-A883E908D4B2:ID
+Name: Gaia's Vengeance Marshal|FC802CEB-4A39-39AC-ADF5-02A812BE2F8E:ID
+Name: Rune Stone Marshal|DB3BF2D9-449E-CD8A-950E-018CA893D404:ID
+Name: Doodle Buds Marshal|6250B40A-43A4-55D8-79D4-F6838D58151D:ID
+Name: Songsteel Marshal|51DA27FE-4A3F-016A-D18D-B68A47545F6F:ID
+Name: Venturi Marshal|F037EA38-4BE9-0F3D-003C-6F958A71E04B:ID
+Name: Ruin Marshal|027A5D7F-4BFC-7C41-A012-24B8C6720FDA:ID
+Name: Monarch Marshal|028C7B80-46EA-8F1D-3F7A-4C9C13A79977:ID
+Name: Avalanche Marshal|DD58AB43-4FF3-659E-8F30-B8BD26619D4D:ID
+Name: Black.Market Marshal|FE297733-4ADA-D817-DD7E-17B9CD1D62D5:ID
+Name: Couture Marshal|6F48F7FF-40A5-CC9E-1320-BDAA388F5CBF:ID
+Name: Magepunk Marshal|27AB5ED6-4614-D5C2-C53F-5391FEBE7099:ID
+Name: Signature Marshal|D4BCBC96-4BE3-AA57-9A6A-11AECF60AC61:ID
+Name: Coalition: Cobra Marshal|805722C4-4AC7-6179-7CE7-658B5F26D6ED:ID
+Name: Galleria Marshal|AD6309B5-4788-D401-33D0-4DBAEEADAF87:ID
+Name: Crimsonbeast Marshal|AF77E583-41FC-B0C2-3728-058D02502039:ID
+Name: Moondash Marshal|43353883-446C-C2BF-5D44-298EB948EE80:ID
+Name: POLYfrog Marshal|6EEA7984-4CA4-D547-4D50-B4A608072FEB:ID
+Name: Divine Swine Marshal|AD83A57D-414C-F714-A97F-99BAD1128B2B:ID
+Name: Artisan Marshal|4986A893-48A5-4C23-11F2-70BB9E9D284D:ID
+Name: Luna Marshal|48F218A6-42CF-4F63-0CDA-39A5AEF5D870:ID
+Name: Premiere Collision Marshal|B273ADE7-4971-C274-EB92-219EF6DEF086:ID
+Name: Random Favorite Skin|457FE5D2-40C8-4490-6834-53A74E709F4A:ID
+Name: Sovereign Marshal|5211EFA8-4EFD-09BB-6CEE-72B86A8A5972:ID
+Name: Reverie Marshal|0DFC1800-4DDC-85FD-8382-32A2824135FA:ID
+Name: Standard Marshal|FD44B2D5-49EE-77AB-FA56-588F3AC0C268:ID
+Name: Wasteland Marshal|19F06522-40C8-8DC6-A0CD-92808B24751F:ID
+Name: Winterwunderland Marshal|C31856F4-4AE1-CFB8-14CC-10A92B81E7C3:ID
+Name: Spectre|462080D1-4035-2937-7C09-27AA2A5C27A7:ID
+Name: Task Force 809 Spectre|E78FB82C-4800-E102-B7A6-33946FA2F199:ID
+Name: RGX 11z Pro Spectre|4F0C9544-469C-0C62-DF2E-95B15D6F2333:ID
+Name: VALORANT GO! Vol. 1 Spectre|89B78398-4C56-6371-CAD7-8EB78EE3F550:ID
+Name: Neptune Spectre|55153919-4598-CB0F-4759-7EA546C6D121:ID
+Name: Striker Spectre|DBE2C9EA-41C4-522C-9204-DAB09BAC84D0:ID
+Name: Radiant Crisis 001 Spectre|780A93E6-46AA-50C7-5E73-B885C5F6A141:ID
+Name: Starlit Odyssey Spectre|1E473101-488A-E8AB-41CD-C6AD9D53443A:ID
+Name: Abyssal Spectre|3AEBC432-4946-B9DC-AE50-59A6AFA68C0D:ID
+Name: Singularity Spectre|0EAB3E5C-4DE4-E221-34FB-2AB435C89EB6:ID
+Name: Sarmad Spectre|5137DACB-4DF6-B513-765B-96B9ECFC435C:ID
+Name: Hivemind Spectre|D405272B-4388-578C-E33B-04842496B8C1:ID
+Name: Venturi Spectre|35469802-4AE2-F86A-DFAA-D484CC29481E:ID
+Name: Forsaken Spectre|A786EA8F-42F2-AE5F-376F-2BB66DF1A62F:ID
+Name: Velocity Spectre|6196C91C-4F0A-2AA2-342A-6FBAC6D4EC3C:ID
+Name: Soulstrife Spectre|95CA4D2B-4166-8E0E-8D79-D79957F58B81:ID
+Name: Infantry Spectre|8D4D74C3-4771-52A3-B3EB-A38CC0222643:ID
+Name: Horizon Spectre|EB9EC7C9-4C20-E702-81C7-63BBE165AA12:ID
+Name: Prime Spectre|20807BD8-4259-35E5-E54E-C1B214F58CC8:ID
+Name: Avalanche Spectre|A0938D46-4593-19B4-1AA5-F3B32ECB9963:ID
+Name: Prism Spectre|B9836020-433A-ACE4-EB35-3FBD67688C53:ID
+Name: Serenity Spectre|4643050B-417C-0D84-3626-27B709C49C67:ID
+Name: Ruination Spectre|F9C2E823-4EEB-D872-8A4C-D5A0BF8A3B6C:ID
+Name: Kingdom Spectre|30B19F29-419B-1ADC-3561-40BE2B1F7841:ID
+Name: Monstrocity Spectre|BDB396B1-49EB-851C-B107-1EA2027CAB26:ID
+Name: Luxe Spectre|3EB4D837-4AE9-B52A-B41D-2789F9974F15:ID
+Name: Magepunk Spectre|A3F8E1B3-4654-F3EA-15BA-9EB9FD6A0B0D:ID
+Name: Spline Spectre|418EF9FE-4675-6620-3755-C19ACA3FF131:ID
+Name: Minima Spectre|2D28E21F-4986-650D-70BD-A2927A0E337B:ID
+Name: Ion Spectre|EACEA54E-4E53-2715-CD4A-5D860AA68449:ID
+Name: Hue Shift Spectre|ED78F73B-4055-2BD2-7CD6-A1AE7E9025C5:ID
+Name: Aero Spectre|FBAEDF2B-4A8B-1949-DDAA-27AB3F6D8AE4:ID
+Name: POLYfrog Spectre|9042279E-4491-1A01-A346-928F89F01EA7:ID
+Name: Protocol 781-A Spectre|EAA73AB9-4688-0C40-09AD-85B535A50723:ID
+Name: Luna Spectre|F45824E7-4573-D473-0E70-959B76FC4DAB:ID
+Name: Random Favorite Skin|C79318A6-4FFD-A99F-F452-77947640F688:ID
+Name: Gravitational Uranium Neuroblaster Spectre|4A8E8FF6-44F2-0EBF-6FA8-A5AF76B628EE:ID
+Name: Reaver Spectre|1CB1AB52-4C7D-0775-77F4-EAAC99968261:ID
+Name: Recon Spectre|26B1C794-4370-F354-FF4D-3A8B95EDFF79:ID
+Name: Infinity Spectre|53AB2A6A-46C5-32B9-E045-6781E677D7FF:ID
+Name: Standard Spectre|F01D1307-4299-42F5-2C5E-7DAB7E69AB19:ID
+Name: Tigris Spectre|910991B7-40DE-183D-12EA-D99E67CFA910:ID
+Name: Convex Spectre|C8A5BA23-4F0D-C7DE-8E2F-C184E2FC27BA:ID
+Name: BlastX Spectre|B4E5BB69-4E12-113F-C43B-EFA5B13CB96D:ID
+Name: Wasteland Spectre|F7DA43D8-450B-A03F-CEB7-C4B20F738392:ID
+Name: Stinger|F7E1B454-4AD4-1063-EC0A-159E56B58941:ID
+Name: Immortalized Stinger|66A6A6A1-44C7-BEAC-0B67-54AAA8243367:ID
+Name: RGX 11z Pro Stinger|282C15E6-4372-2F18-9143-2D9CDD942C4C:ID
+Name: Aristocrat Stinger|42DA0F19-4017-5CB8-08A4-368315561FDF:ID
+Name: Red Alert Stinger|0CF70376-4150-39AA-5657-8890617BC0D1:ID
+Name: Prelude to Chaos Stinger|5A4A0EA0-4AC6-D130-C917-45A7BB89AE42:ID
+Name: Doodle Buds Stinger|9444BA80-4AE7-985D-40A2-2788F96DD544:ID
+Name: Surge Stinger|0A128CB6-4BBB-F618-85CB-82BBD17BCBB1:ID
+Name: Shimmer Stinger|3FC40900-4D9D-C22F-C0F6-E0B53827EF83:ID
+Name: .SYS Stinger|BF7E260F-407E-9E16-E47E-BA921C10F046:ID
+Name: Prism II Stinger|338E3EE3-4927-733F-32B6-BCAC795D23AC:ID
+Name: Couture Stinger|598BB272-4BFD-AE82-0242-6490CC6F721E:ID
+Name: Signature Stinger|CFBCBBCB-4D51-94CB-2EFB-9FBB0D655B45:ID
+Name: Silvanus Stinger|847FE9DA-45CC-21D4-0138-7AA4D8B31D8E:ID
+Name: Moondash Stinger|92F1DD4B-47F5-2088-9370-F89857962BC2:ID
+Name: Sensation Stinger|9D7ED392-4C4C-B1C4-7232-3CBB07B2E133:ID
+Name: Random Favorite Skin|D25DFDC4-4FCE-E121-88EF-66B5DADEEE09:ID
+Name: Sakura Stinger|1CD6F578-483B-37A1-A7EF-9A907FAC416A:ID
+Name: Schema Stinger|46C8B165-4BA5-D42C-79E9-4FBA8951CA48:ID
+Name: Lycan's Bane Stinger|3D6EB464-4193-A8C6-5AFF-D593520163B3:ID
+Name: Sovereign Stinger|8FB27BB1-4080-581D-BCD3-53AE01861654:ID
+Name: Cavalier Stinger|51E2B876-4339-521D-8D68-9AAEC119BC1F:ID
+Name: Standard Stinger|940FB417-4A9C-3004-41F5-3E8F1F4178B2:ID
+Name: Gridcrash Stinger|3760761D-4BE6-BC25-D9A8-A0B9137651FD:ID
+Name: Depths Stinger|E1297B8F-4374-3131-27A9-38BB0EDA1C0D:ID
+Name: Ego Stinger|8FE5EBBC-4CE7-A248-9766-288441706E0A:ID
+Name: Varnish Stinger|26FBCF26-4135-B8E3-277E-8A9C27E3D34D:ID
+Name: Melee|2F59173C-4BED-B6C3-2191-DEA9B58BE9C7:ID
+Name: Task Force 809 Knife|58442F45-4783-42A2-F4CB-789A27555889:ID
+Name: RGX 11z Pro Blade|9FB366B6-46DF-A722-0CF2-9C9B85936F17:ID
+Name: RGX 11z Pro Firefly|03DE6B1A-4497-72E8-AE0C-2984B2E7E2B9:ID
+Name: Altitude Knuckle Knife|1BC43715-4679-3F9D-FFC1-D69B373407CC:ID
+Name: Xenohunter Knife|C5482640-4652-6948-29C6-769E8198DB27:ID
+Name: VALORANT GO! Vol. 1 Knife|9103FDF7-4361-5AC5-37AE-7CB51F13F45D:ID
+Name: Yoru's Stylish Butterfly Comb|D034911C-45A6-1CE4-E6F5-4CBE57E9D4F1:ID
+Name: Araxys Bio Harvester|A486EFAC-4415-1BFA-68D1-19BCA9968101:ID
+Name: Neptune Anchor|C3F1C9D6-441B-7DEF-1BF2-2C82719A4DE8:ID
+Name: Power Fist|F0BA8044-4964-BA1F-7F0F-E68DC2118D42:ID
+Name: Gaia's Wrath|F91A1DD8-4F5F-BCE4-F01D-4DA95322C485:ID
+Name: Waveform|400BB847-4F4F-A39E-CD52-589F00B2204F:ID
+Name: Obsidiana|8330A4C0-4E98-1CB7-9695-6B998B77138D:ID
+Name: Champions 2021 Karambit|1EA64C8D-43C4-FCE8-7354-01BDD6C0EE17:ID
+Name: Champions 2022 Butterfly Knife|6946CD0E-4E4A-EC4F-9238-DFB71715722B:ID
+Name: Origin Crescent Blade|AC687FC4-40C5-4C41-6A7C-5EB59ADABD60:ID
+Name: Striker Knife|31309F0B-49CD-295C-490D-96821A21C72F:ID
+Name: Radiant Crisis 001 Baseball Bat|71020826-483D-34F8-8DA7-928F87942C10:ID
+Name: Nebula Knife|A4C41553-4BA5-EFEE-5685-7A9F0CDF7878:ID
+Name: Hack|C91E4850-4D32-3B12-F411-3E9F644EA616:ID
+Name: Glitchpop Dagger|DDC025B2-475F-889A-2800-80B4215582BC:ID
+Name: Glitchpop Axe|F0C42E14-4A92-132D-DFD4-CBBEF103340C:ID
+Name: Terminus A Quo|1B8DE6D7-4F37-7170-ACD7-E78829F7959A:ID
+Name: Caeruleus|CD6CE089-43FA-C4DC-3F8F-0391CB604B5D:ID
+Name: Blade of Chaos|6E0496C1-4C98-7ABE-16C4-7CA3653E5CD8:ID
+Name: Elderflame Dagger|94B40026-4EFB-39EA-69D7-FCA60BE39C56:ID
+Name: Singularity Knife|151EE26C-4E82-E7CA-DAD1-099E7FB34774:ID
+Name: Blade of Serket|6417E12D-4F03-13D4-8704-20BF3A1BCB5B:ID
+Name: Songsteel|45129867-4977-E2A5-BEAD-CB828101B623:ID
+Name: VCT LOCK//IN Misericórdia|9A98F7DD-426C-603E-0569-E9B317C25EE4:ID
+Name: Hivemind Sword|24CF2882-48C7-F287-155A-A4B6B083BAA4:ID
+Name: Venturi Knife|2640E9A6-415F-4C3E-CAC0-16A24EDB41C0:ID
+Name: Forsaken Ritual Blade|ED792F00-43A7-CC88-B64B-B78C9DE399A1:ID
+Name: Velocity Karambit|CCDE2F25-4525-EF52-E1F0-BD88184BD4A4:ID
+Name: Ruin Dagger|9C350EBE-458B-E6ED-AB77-2FB00CF249C1:ID
+Name: .SYS Melee|C8B926DF-4554-1B07-5A43-A9850BAFCA96:ID
+Name: Soulstrife Scythe|DFE96F5A-4BE0-C3F4-8E31-7F962BCA2ADE:ID
+Name: Prime Axe|E100DFF1-4CF5-54EC-AA65-6FADBC22973B:ID
+Name: Prime//2.0 Karambit|9237E734-4A2A-38AE-7438-6CBEE901877D:ID
+Name: Outpost Melee|908BE835-43BC-B728-35A4-0FA91F612CC0:ID
+Name: Black.Market Butterfly Knife|9B6D0E3D-43EB-E9D5-4069-2194E02D6E6E:ID
+Name: Bound |82FBFA4C-4BAC-A6DA-C5ED-00898E83637F:ID
+Name: Prism Knife|6FA830C2-4924-87B2-1510-2FA4FBDCA1DB:ID
+Name: Prism III Axe|0C07C7F3-4532-BC57-D474-26B3B39A38E6:ID
+Name: Broken Blade of the Ruined King|B1E9530D-4618-4F2E-1B75-F1A90C91B19E:ID
+Name: Kingdom Knife|F82AA022-4A6C-FA40-105D-92AF6510AE1B:ID
+Name: K/TAC Blade|83E8641B-41D0-821D-5EEB-5999E9294A0C:ID
+Name: Equilibrium|2E4300F9-49B3-6BBE-AF7C-94A6F56FF12E:ID
+Name: Smite Knife|46163791-47B9-2EF0-D255-AAA5146051BB:ID
+Name: Catrina|8E760310-4D95-354B-A910-049EAA4D2FC6:ID
+Name: Iridian Thorn Blade|16DA5CCA-49BC-2516-8EE6-C98D93E2D911:ID
+Name: Celestial Fan|7D45AAAD-4AC9-77B1-E7CA-3991BE5721DD:ID
+Name: Luxe Knife|4AF88517-4949-9CAA-9DDA-1980F07202A4:ID
+Name: Magepunk Electroblade|C18E781E-40A0-80E6-256A-54AE7355E7EB:ID
+Name: Magepunk Shock Gauntlet|59F627F1-42F3-670D-5323-3499C2913289:ID
+Name: Spline Dagger|F6CFD500-4EAB-3C1D-9EEB-188E90731692:ID
+Name: Crimsonbeast Hammer|EC04E1A4-4067-BB9C-C18B-46A80E5F3F1F:ID
+Name: Genesis Arc|3209E2AF-4703-088B-EBEF-8DA89B4CEF87:ID
+Name: Ion Energy Sword|46664F5B-49CA-3E09-4FE5-56BDEF536335:ID
+Name: Ion Karambit|A590C03A-43B1-A408-4C6B-0BB9FDDA1570:ID
+Name: Oni Claw|206FC3FE-45A0-6C19-C367-229B98B6A2AA:ID
+Name: Onimaru Kunitsuna|4E7342A5-4820-2D79-A488-0FA51A4357F7:ID
+Name: Cryostasis Impact Drill|FEB4EB97-4AB3-793A-9A92-1B8AF59DC023:ID
+Name: Artisan Foil|C39F405F-42F1-ACD1-A350-D3AF39C32E33:ID
+Name: Personal Administrative Melee Unit|239ED20B-479C-E08E-C4B5-6BA0394576D4:ID
+Name: Luna's Descent|07409307-46CC-98DB-EC92-CEB04A865F73:ID
+Name: Random Favorite Skin|B5F42A00-425A-6FDF-61AF-BB9A564C3D79:ID
+Name: Gravitational Uranium Neuroblaster Baton|0357CAF1-41A9-CB1C-C080-38AAB13D9A7E:ID
+Name: Relic of the Sentinel|6FD8CC46-48B3-F02C-46E3-CBA372E7A328:ID
+Name: Snowfall Wand|52A1647C-42D9-B40E-16CF-A7821566AD81:ID
+Name: Reaver Knife|0AECB2B8-49CC-560E-42C7-6CBCE44F05CF:ID
+Name: Reaver Karambit|B73D7B16-4652-BC5B-5C4C-068AABB19D0A:ID
